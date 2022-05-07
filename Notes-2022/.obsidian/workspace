@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Episodes/Episode 1.md",
+            "file": "Characters/Death's Soldiers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/Episode 1.md",
+                "file": "Characters/Death's Soldiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,12 @@
   },
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
-    "Episodes/Episode 1.md",
-    "Characters/Florida Man 2 Electric Boogaloo.md"
+    "Characters/Death's Soldiers.md",
+    "Characters/Cerberus the Crust Dog.md",
+    "Afterlifes/Afterlifes.md",
+    "Characters/Skeleton Agents.md",
+    "Characters/Florida Man.md",
+    "Episodes/Episode 1 - A Rebirth.md",
+    "Characters/Mokat Irai the Necromancer.md"
   ]
 }
