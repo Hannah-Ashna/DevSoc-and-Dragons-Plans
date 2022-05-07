@@ -1,5 +1,5 @@
 ### The Sands of Time
-You all slowly begin to gain consciousness and as you gentle pry your eyes open a blinding white light scorches you. Pushing yourselves forward and out off the ground you sense a grainy texture on the palms of your hands as it presses into the ground. Around you is a vast, icy white desert. The dunes in the distance seem to go on and on, almost like they were never ending. As you force yourselves up from the rather unstable ground, you quickly realise that each of you is alone out here. There doesn't seem to be a single soul in sight in this bright, white void of a place. To be honest, you all can't seem to figure out how you even got here to begin with. Looking around and down at yourself you notice that all your items and weapons are gone. Did someone dump you out here? and if so, where even is here??? in all your years of life you've never even come across such a place in ... uh ... hmm.. where did you even come from?? Well this isn't good. You aren't even sure of who you are! 
+You all slowly begin to gain consciousness and as you gentle pry your eyes open a blinding white light scorches you. Pushing yourselves forward and up off the ground you sense a grainy texture on the palms of your hands as it presses into the floor. Around you is a vast, icy white desert. The dunes in the distance seem to go on and on, almost like they were never ending. As you force yourselves up from the rather unstable ground, you quickly realise that each of you is alone out here. There doesn't seem to be a single soul in sight in this bright, white void of a place. To be honest, you all can't seem to figure out how you even got here to begin with. Looking around and down at yourself you notice that all your items and weapons are gone. Did someone dump you out here? and if so, where even is here??? in all your years of life you've never even come across such a place in ... uh ... hmm.. where did you even come from?? Well this isn't good. You aren't even sure of who you are! 
 
 As you begin to frantically search through your memories for answers the sand beneath you begins to quiver as a distant rumbling sound echoes through the desert. Locking your eyes with the only obvious movement you can see out here each of you sees a large marble pedestal start to slowly emerge from the ground a few feet away in-front of you. Something about it calls out to you ...
 
@@ -19,6 +19,8 @@ Contemplating your sanity prevents you from immediately noticing a robed figure 
 Their hand firms its grip on yours before pulling you closer, exposing your inner forearm. With their other hand, they reveal a glowing, crimson branding stick. Before you're able to react the hot brand is pressed firmly against your arm and all you can do is let out a horrific scream of agony. The burning ache sends your entire body into shock and all of you pass out. 
 
 ### Welcome to Purgatory
+Everything is silent. You are now in a void of absolute darkness, it is cold and you've never felt so alone. Then, there is a voice .... **Mokat speaks**
+
 The players meet [[Mokat Irai the Necromancer|Mokat]]
 
 ### The River
