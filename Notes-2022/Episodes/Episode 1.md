@@ -1,29 +1,23 @@
-they are initially dead
-in a valley of white, endless sand dunes
-the ground begins to rumble as a pedastal emerges in the distance. It beckons them closer. You feel compelled towards it.
+# Episode 1 - A Rebirth
+### The Sands of Time
+You all slowly begin to gain consciousness and as you gentle pry your eyes open a blinding white light scorches you. Pushing yourselves forward and out off the ground you sense a grainy texture on the palms of your hands as it presses into the ground. Around you is a vast, icy white desert. The dunes in the distance seem to go on and on, almost like they were never ending. As you force yourselves up from the rather unstable ground, you quickly realise that each of you is alone out here. There doesn't seem to be a single soul in sight in this bright, white void of a place. To be honest, you all can't seem to figure out how you even got here to begin with. Looking around and down at yourself you notice that all your items and weapons are gone. Did someone dump you out here? and if so, where even is here??? in all your years of life you've never even come across such a place in ... uh ... hmm.. where did you even come from?? Well this isn't good. You aren't even sure of who you are! 
 
-As you make your way closer you notice a few odd items protruding out of the dunes. 
-- A skeletal hand holding on to a pair of sunglasses
-- 
-Upon the pedestal rests a peculliar sort of inscription. You're unfamiliar with this language.
+As you begin to frantically search through your memories for answers the sand beneath you begins to quiver as a distant rumbling sound echoes through the desert. Locking your eyes with the only obvious movement you can see out here each of you sees a large marble pedestal start to slowly emerge from the ground a few feet away in-front of you. Something about it calls out to you ...
 
-(consequences of interacting with pedestal????)
-(more stuff here)
+**Do you answer the call?**
 
-You notice that the sand has begun to trickle in from the sky and those magnificent boundless dunes are simply an illusion. There is a single, circular wall that surrounds you. The sand continues to make its way down this funnel of a sky. 
+### The Pedestal
+Upon walking up to the pedestal you notice some sort of plaque with an inscription carved into it. The symbols are unlike anything you've ever seen before, yet for some reason you understand. It reads: 
 
-Make a survival check? 
+" (Insert Riddle Here about Death and second chances???)"
 
-A) Yeah you realise that if you dont find a way out of here, you're going to suffocate to death once all this sand locks you in.
+### Time Resets
+All of a sudden the ground begins to quake yet again except this time you notice the landscape seems to rotate in such an odd manner and now you're falling in reverse?? Did that pedestal destroy gravity?? A vortex of sand begins to form within the sky, slowly drawing you in. For a brief moment you are suffocated within heaps upon heaps of sand only to be spat out onto the ground. You're all not entirely sure of what just happened but now there's a spot in the centre of the sky that appears to be funnelling down sand. Perhaps that was just some weird hallucination, though you are quite sure you're hurt a little after being thrown about so violently by the sand like that. 
 
-B) Ah it's sort of a vibe right now, you're not quite sure what's going on but this is one hell of a dream. 
+Contemplating your sanity prevents you from immediately noticing a robed figure that approaches each of you from behind. You hear them clear their throat which snaps you out of your thoughts immediately, whisking yourself in a 180 degree motion to face them with your guard up. They say nothing to you for a moment before gently extending a hand out towards you, as if to ask for your hand in theirs. 
 
+**Do you accept their hand?** *If they don't then the figure reaches out and grabs onto their hand*
+Their hand firms its grip on yours before pulling you closer, exposing your inner forearm. With their other hand, they reveal a glowing, crimson branding stick. Before you're able to react the hot brand is pressed firmly against your arm and all you can do is let out a horrific scream of agony. The burning ache sends your entire body into shock and all of you pass out. 
 
-A mystical hand saves them?? to they accept the hand or the beckoning call from behind? Either way they all wake up but if they accepted the hand they will have to recollection of they the fuck they are.
+### Welcome to Purgatory
 
-(If all reject the hand as they pull back to the voice, the hand yanks them back and they feel a searing burn on their inner forearm -- as if they were being branded) roll to see if they get away?
-
-Those that don't remember anything are told that they are dying -- unlike the other two that have healed up a fair bit since their knock out by the bbeg. The arm that is branded is started to go black at the finger tips and their arm feels much weaker than the other. 
-
-
-(Were they rescued by a necromancer? and brought back to life in a risky way that some of them would have to pay for it with their souls? hence the branding?? Is the necromancer the original BBEG?? are they still the BBEG?)
