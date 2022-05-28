@@ -7,5 +7,6 @@
     "en-GB-oxendict"
   ],
   "autoPairBrackets": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false
 }
