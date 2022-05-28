@@ -24,13 +24,27 @@ Everything is silent. You are now in a void of absolute darkness, it is cold and
 The players meet [[Mokat Irai the Necromancer|Mokat]]
 
 ### The River
-Pay [[The Ferryman]] -> Ferryman asks for something of value but will suggest they can pay with a debt to him 
+As all of you wait by the dock for the Ferryman you notice a pale flickering light glistening through the thick fog. Gently, the creaking gondola begins to push its way past the curtains of fog slowly pulling up to the dock so that each of you may hop on board. 
 
+**Do any of you look at the figure?** [[The Ferryman]] 
+**Do you hop on board immediately or attempt to communicate with the ferryman?** He will stop you and ask for something of value but will then suggest that you may simply pay with a debt to him, a debt that he may call upon in the future.
+
+Once the deal has been made, the Ferryman skillfully pushes the gondola away from the dock using his staff and you begin your journey northward. The water is murky though it's hard to really see with this thick fog surrounding you. The lantern at the front of the gondola can only do so much. As the quiet rowing starts to calm each of you down from the rude awakening you've had so far you start to hear soft thudding sounds against the base of the boat.
+
+**Do you inspect?** Upon a closer look to see past the boat's glass frame you begin to recognise what you believe are hundreds upon hundreds of hands weakly attempting to grasp onto the bottom of the boat. Occasionally the boat rocks at the force but the ferryman seems unbothered by this.
+
+**Do you chose to sit still or investigate further?**
 - If they touch the water -> DC 15 Strength Save or begin to be dragged into the water
 - If they fail -> Life is drained from them and only the husk of their body remains
 
-- Ocean is foggy so they don't notice the hands until they start hitting the bottom of the boat
-- As they leave they *don't* see a shadow rise from the water and follow after them
+The journey is long or perhaps it just felt long since you spent it in the company of all the unsettling things stirring within the water. Once all of you hop off, the ferryman gestures goodbye and disappears within the fog once again. Up ahead looks to be some sort of old town.
+
+**Whoever has the amulet** -> You can hear Moks voice in your head telling you to head on up the hill and towards the church, that is where we'll be able to meet with someone who might be able to resolve the party's issue.
+
+### The Rising Figure
+As all of you walk away towards the city and out of reach. Unbeknown to you, the murky water begins to bubble and out comes a dark shadow with piercing white eyes. The form it takes is indiscernible. The being begins to slowly trudge along to the trail left by your footprints. 
+
+**Note:** None of you see this!
 
 ### Waiting Room Hellscape
 - People waiting in pews
