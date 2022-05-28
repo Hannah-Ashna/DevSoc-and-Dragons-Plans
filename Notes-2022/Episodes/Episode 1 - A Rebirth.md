@@ -24,7 +24,10 @@ Everything is silent. You are now in a void of absolute darkness, it is cold and
 The players meet [[Mokat Irai the Necromancer|Mokat]]
 
 ### The River
+Pay the ferryman -> Ferryman asks for something of value but will suggest they can pay with a debt to him 
 
+- If they touch the water -> DC 15 Strength Save or begin to be dragged into the water
+- If they fail -> Life is drained from them and only the husk of their body remains
 ### Waiting Room Hellscape
 
 ### Dungeons
