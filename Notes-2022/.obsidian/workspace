@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Faye - Evelyn.md",
+=======
+            "file": "Characters/Death's Soldiers.md",
+>>>>>>> f1fc08be26f13464ad86b1f4138470a342c68ad4
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Faye - Evelyn.md",
+=======
+                "file": "Characters/Death's Soldiers.md",
+>>>>>>> f1fc08be26f13464ad86b1f4138470a342c68ad4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +97,28 @@
   },
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Faye - Evelyn.md",
     "Jeremy Varren - Ryder.md",
     "Patro - Alex.md",
     "Faye - Evelyn 1.md",
     "Episodes/Episode 1 - A Rebirth.md",
     "Characters/Mokat Irai the Necromancer.md",
+=======
+>>>>>>> f1fc08be26f13464ad86b1f4138470a342c68ad4
     "Characters/Death's Soldiers.md",
+    "Characters/Thatcher the Rat Catcher.md",
     "Characters/Cerberus the Crust Dog.md",
+<<<<<<< HEAD
     "Characters/Florida Man.md",
     "Characters/Skeleton Agents.md"
+=======
+    "Cerberus.png",
+    "Characters/Florida Man.md",
+    "Characters/Mokat Irai the Necromancer.md",
+    "Episodes/Episode 1 - A Rebirth.md",
+    "Characters/Skeleton Agents.md",
+    "Afterlifes/Afterlifes.md"
+>>>>>>> f1fc08be26f13464ad86b1f4138470a342c68ad4
   ]
 }
