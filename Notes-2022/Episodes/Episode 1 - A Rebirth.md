@@ -24,12 +24,22 @@ Everything is silent. You are now in a void of absolute darkness, it is cold and
 The players meet [[Mokat Irai the Necromancer|Mokat]]
 
 ### The River
-Pay the ferryman -> Ferryman asks for something of value but will suggest they can pay with a debt to him 
+Pay [[The Ferryman]] -> Ferryman asks for something of value but will suggest they can pay with a debt to him 
 
 - If they touch the water -> DC 15 Strength Save or begin to be dragged into the water
 - If they fail -> Life is drained from them and only the husk of their body remains
+
+- Ocean is foggy so they don't notice the hands until they start hitting the bottom of the boat
+- As they leave they *don't* see a shadow rise from the water and follow after them
+
 ### Waiting Room Hellscape
+- People waiting in pews
+- [[The Ferryman]] is stood at the alter facing the people, they read out a number and you watch as an elderly woman rises from one of the frontmost pews, and walks to the large stained glass window behind the altar. As she presses a wrinkled hand to it the image in the glass morphs to a swamp bathed in red, weeping figure buried in the bloody earth. Before she can react shes absorbed into the glass and it returns to it previous form. 
 
 ### Dungeons
-
+beige hallways
+- Puzzle rooms
+- More Puzzles
+- Get a key or something from a sleeping creature
+- Rooms with people being tortured ( one of them is Jark)
 
