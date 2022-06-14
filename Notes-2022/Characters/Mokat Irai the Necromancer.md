@@ -4,7 +4,7 @@ Mokat Irai is perhaps one of the most powerful necromancers of his time. Mokat's
 Mok has only one goal at the moment and that's to kill the God of Death and steal the throne to become the ultimate necrolord, the king of kings, the ruler of the dead. However, his magical prowess can only get him so far, Death is aware of his antics and has set aside many a hurdle. As he sits trapped within purgatory mulling over a new plan it seems a few foolish adventurers have decided to make an appearance.
 
 ### Appearance
-(Insert physical appearance desc). He speaks with a charming, rustic tone that's capable of wooing all that have the pleasure of meeting him. 
+Before you stands a small, lithe rabbit-man - otherwise known as a Harengon. He has light brown fur, slightly grey around the whiskers. His long, floppy ears hang from under a white Stetson. He wears a suede waistcoat, belt with a golden buckled engraved with a moth decal, and a bolo tie that looks like a star shaped flower (nightshade). He speaks with a charming, rustic tone that's capable of wooing all that have the pleasure of meeting him. 
 
 ### Mok's Lies
 ### The Backstory
