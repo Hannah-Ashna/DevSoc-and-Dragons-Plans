@@ -1,0 +1,4 @@
+### Character Summary
+Half-orc Retired soldier - he was a dropout and he joined the army. But that was long ago and his talents have since been recognised. Was decent in the army when he was younger. He retired because 60 was the retirement age and they kicked him out. Joined the polytechnic to revitalise himself - some kid called him "Gramps" and he had a midlife crisis about it (he's not old!) Age is catching up to him so he's actually getting weaker (he's currently level 6). He spends most of his time making up fabricated stories which nobody believes because he's too stupid to think them through. Spends most of his time at the Artificer's guild disagreeing with people on principle (inflexible opinions) because he is old. Claims to have seen the Octogarf. Originally from Stabford - He has some smithing skills to fit in (he just wants to fit in with the young'uns T_T)
+
+**DND Beyond Link:** https://www.dndbeyond.com/characters/73460042/ktyNqz

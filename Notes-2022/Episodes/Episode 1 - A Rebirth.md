@@ -9,7 +9,11 @@ As you begin to frantically search through your memories for answers the sand be
 ### The Pedestal
 Upon walking up to the pedestal you notice some sort of plaque with an inscription carved into it. The symbols are unlike anything you've ever seen before, yet for some reason you understand. It reads: 
 
-" (Insert Riddle Here about Death and second chances???)"
+All things are born for me.  
+His father and his mother, –yet man hates  
+         Me foolishly.  
+An easy spirit and a free lives on,  
+But he who fears the ice doth stumble.
 
 ### Time Resets
 All of a sudden the ground begins to quake yet again except this time you notice the landscape seems to rotate in such an odd manner and now you're falling in reverse?? Did that pedestal destroy gravity?? A vortex of sand begins to form within the sky, slowly drawing you in. For a brief moment you are suffocated within heaps upon heaps of sand only to be spat out onto the ground. You're all not entirely sure of what just happened but now there's a spot in the centre of the sky that appears to be funnelling down sand. Perhaps that was just some weird hallucination, though you are quite sure you're hurt a little after being thrown about so violently by the sand like that. 
@@ -19,6 +23,7 @@ Contemplating your sanity prevents you from immediately noticing a robed figure 
 **Do you accept their hand?** *If they don't then the figure reaches out and grabs onto their hand*
 Their hand firms its grip on yours before pulling you closer, exposing your inner forearm. With their other hand, they reveal a glowing, crimson branding stick. Before you're able to react the hot brand is pressed firmly against your arm and all you can do is let out a horrific scream of agony. The burning ache sends your entire body into shock and all of you pass out. 
 
+```STOP A NEW BEGINNING```
 
 ### Welcome to Purgatory
 Everything is silent. You are now in a void of absolute darkness, it is cold and you've never felt so alone. 
@@ -43,6 +48,8 @@ Once the deal has been made, the Ferryman skillfully pushes the gondola away fro
 - If they fail -> Life is drained from them and only the husk of their body remains
 
 The journey is long or perhaps it just felt long since you spent it in the company of all the unsettling things stirring within the water. Once all of you hop off, the ferryman gestures goodbye and disappears within the fog once again. Up ahead looks to be some sort of old town.
+
+```STOP CROSSING THE STYX```
 
 **Whoever has the amulet** -> You can hear Moks voice in your head telling you to head on up the hill and towards the church, that is where we'll be able to meet with someone who might be able to resolve the party's issue.
 
@@ -79,8 +86,17 @@ As time goes on and you listen to these numbers get called out you watch as one 
 As you walk up to the stained glass window, no one in the room seems to object -- in fact the ferryman hasnt even bothered to look up at any of you as he continues on with his numbers ... as you put your palm up against the window, you watch as it begins to frantically switch between all sorts of images. They flash by too quickly but you manage to catch a glimpse of a white desert, a dark room with dark ooze dripping from the walls and a quiet little farm. Finally it stops at a dimly lit dungeon with a statue in the centre. The glass then begins to pull each of you in and within a blink you are all now face to face with this statue. 
 ```PLAY CATACOMBS```
 
-- Puzzle rooms
-- More Puzzles
-- Get a key or something from a sleeping creature
-- Rooms with people being tortured ( one of them is Jark)
+#### The Statue Puzzle
+In front of you is a carefully carved out stone statue of a soldier that is facing the way in which you entered this dungeon. Behind you is now a brick wall. The room has three gates, all of which are closed at the moment. The space feels a little claustrophobic with such a big statue occupying the centre of the room. 
+* If the players attack the statue, it will fight back, but only for one round. Then, it freezes once more.
+* Ask them to roll for initiative once
 
+#### The Mirrored Rooms Puzzle
+
+#### The Mystery Battle (Depends on time)
+
+
+### HR's Office
+As you make your way down this dimly lit corridor, you notice that the grimy brick walls begin to glisten with a fresh coat of light blue paint. The sound of your boots hitting the cobble stone floor seems to shift into a gentle set of creaks instead and as you glance down you notice it's now all wood. In front of you is a figure sat under a pale yellow light behind a desk and as it looks up at you you get the odd sensation that it's smiling at you despite it's lack of ... well ... a *face*.
+
+This is the HR department of the underworld ... and your new friend here is [[The Manager]]
