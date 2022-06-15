@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc71775280916e4f",
@@ -90,11 +91,11 @@
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
     "Episodes/Episode 1 - A Rebirth.md",
+    "Characters/The Ferryman.md",
+    "Characters/Mokat Irai the Necromancer.md",
     "Characters/The Manager.md",
     "Characters/Thatcher the Rat Catcher.md",
-    "Characters/Mokat Irai the Necromancer.md",
     "Characters/Cerberus the Crust Dog.md",
-    "Characters/The Ferryman.md",
     "Characters/Death's Soldiers.md",
     "Players/Patro - Alex.md",
     "Players/Jeremy Varren - Ryder.md",

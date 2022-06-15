@@ -83,11 +83,24 @@ As time goes on and you listen to these numbers get called out you watch as one 
 * You're unsure of how time works within this realm but it's felt like an eternity, the ferryman continues to drone on '56,789 .... 56,790 ..." none of you has been given a number to wait on and this church looks busy -- it might be a long time before anyone gets around to speaking with you and you're on a time limit! From the corner of your eye, Patro, you notice what you believe is one of death's soldiers, clad in a suit of armour enter from the doorway and march straight down the aisle. He presses his hand against the stained glass and is immediately transported elsewhere. 
 
 ### Dungeons
-As you walk up to the stained glass window, no one in the room seems to object -- in fact the ferryman hasnt even bothered to look up at any of you as he continues on with his numbers ... as you put your palm up against the window, you watch as it begins to frantically switch between all sorts of images. They flash by too quickly but you manage to catch a glimpse of a white desert, a dark room with dark ooze dripping from the walls and a quiet little farm. Finally it stops at a dimly lit dungeon with a statue in the centre. The glass then begins to pull each of you in and within a blink you are all now face to face with this statue. 
+As you walk up to the stained glass window, no one in the room seems to object -- in fact the ferryman hasnt even bothered to look up at any of you as they continues on with their numbers ... as you put your palm up against the window, you watch as it begins to frantically switch between all sorts of images. They flash by too quickly but you manage to catch a glimpse of a white desert, a dark room with dark ooze dripping from the walls and a quiet little farm. Finally it stops at a dimly lit dungeon with a statue in the centre. The glass then begins to pull each of you in and within a blink you are all now face to face with this statue. 
 ```PLAY CATACOMBS```
 
 #### The Statue Puzzle
-In front of you is a carefully carved out stone statue of a soldier that is facing the way in which you entered this dungeon. Behind you is now a brick wall. The room has three gates, all of which are closed at the moment. The space feels a little claustrophobic with such a big statue occupying the centre of the room. 
+In front of you is a carefully carved out stone statue of a soldier that is facing the way in which you entered this dungeon. Behind you is now a brick wall. The room has three gates all of which are closed at the moment. Above each gate is a painting of an empty dark room with a single candle in it. There is also another painting on the wall behind you and this is of the church that you just came from. The statue's gaze is currently focused on it. 
+
+The space feels a claustrophobic with such a big looming figure occupying the centre of the room. The room is covered in cobwebs and you're quite sure that's dried up blood on the floor. At the base of the statue is a slightly damaged plaque that reads:
+
+Fear me not, man; I am the blood that flows  
+Within thee,–I am change
+
+and then there's parts of it missing followed by:
+
+Rising before thee: I it is can make  
+         Old things give place  
+         To thy free race.
+
+
 * If the players attack the statue, it will fight back, but only for one round. Then, it freezes once more.
 * Ask them to roll for initiative once
 
