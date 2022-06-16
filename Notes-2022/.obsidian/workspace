@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Episodes/Episode 1 - A Rebirth.md",
+            "file": "Characters/The Manager.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc71775280916e4f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/Episode 1 - A Rebirth.md",
+                "file": "Characters/The Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +89,13 @@
   },
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
-    "Episodes/Episode 1 - A Rebirth.md",
-    "Characters/The Ferryman.md",
-    "Characters/Mokat Irai the Necromancer.md",
     "Characters/The Manager.md",
+    "Episodes/Episode 1 - A Rebirth.md",
+    "Characters/Mokat Irai the Necromancer.md",
+    "Characters/Death's Soldiers.md",
+    "Characters/The Ferryman.md",
     "Characters/Thatcher the Rat Catcher.md",
     "Characters/Cerberus the Crust Dog.md",
-    "Characters/Death's Soldiers.md",
     "Players/Patro - Alex.md",
     "Players/Jeremy Varren - Ryder.md",
     "Players/Faye - Evelyn.md"

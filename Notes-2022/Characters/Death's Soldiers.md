@@ -8,7 +8,7 @@ Deaths army is made up of two groups:
 2nd in command = Lieutenant Commander Firestar - Leonin Warrior (afraid of Thatcher)
 
 ### Stat Block
-The Drafted zombies move with a jerky, uneven gait. They are clad in the mouldering apparel they wore when put to rest, and carry the stench of decay. 
+The Drafted zombies move with a jerky, uneven gait. They are clad in the moulding apparel they wore when put to rest, and carry the stench of decay. 
 More details can be found [here](https://www.dndbeyond.com/monsters/17077-zombie)
 
 ![[Zombie.png]]
