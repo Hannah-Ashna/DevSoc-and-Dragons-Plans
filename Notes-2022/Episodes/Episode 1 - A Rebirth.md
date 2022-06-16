@@ -105,6 +105,20 @@ Rising before thee: I it is can make
 * Ask them to roll for initiative once
 
 #### The Mirrored Rooms Puzzle
+As each of you each of you enter the room, you see one of the others appear across from you, entering through an identical door. You glance around you see someone else having appeared through a different door to your left or right. You quickly realise that the room you are in has two mirrored walls, and your friends have walked into the mirrored versions of the same room you are in. 
+
+Each of the rooms has a bookshelf, although the look of the books differ slightly between them. 
+
+In the corner of every room is a small cage, suspended from a chain hooked to the ceiling
+
+Against one wall is a empty basin, over which sits a stone bust of a dragons head attached to the wall. The dragon in room C's horns are missing. 
+
+Each room also has a metal sconce mounted to the wall. 
+
+Finally, every room has a small wooden table, with a different object and a small note. In A there is a chess set with a missing piece, the note reads "complete me". 
+In B is a book, the note reads "place me"
+In C is a ceramic jug, the note reads "fill me"
+In D is a candelabra, the note reads "light me"
 
 #### The Mystery Battle (Depends on time)
 
