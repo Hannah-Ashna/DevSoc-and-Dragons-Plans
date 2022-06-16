@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/The Manager.md",
+            "file": "Episodes/Episode 1 - A Rebirth.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/The Manager.md",
+                "file": "Episodes/Episode 1 - A Rebirth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
-    "Characters/The Manager.md",
     "Episodes/Episode 1 - A Rebirth.md",
+    "Characters/The Manager.md",
     "Characters/Mokat Irai the Necromancer.md",
     "Characters/Death's Soldiers.md",
     "Characters/The Ferryman.md",
