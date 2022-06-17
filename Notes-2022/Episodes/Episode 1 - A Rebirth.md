@@ -121,6 +121,23 @@ In C is a ceramic jug, the note reads "fill me"
 In D is a candelabra, the note reads "light me"
 
 #### The Mystery Battle (Depends on time)
+You enter a dingy room. You can see a pathway to your right, alongside a pillar. You footsteps echo on the cracked stone floor. 
+
+*DC 12 Perception check to find the slits in the wall where the boneless come out*
+
+As you round the corner you see large stone statue of a knight in full plate armour.
+
+*(if they are to fight - if they touch or walk in front of the statue)*
+
+You hear a whirring, followed by a whooshing and metallic clunk sound behind you as a iron gate slams in place in front of the door you just entered. The same happens for the door ahead of you.
+
+Roll initiative. 
+
+(In the first turn for the boneless's initiative) you hear a soft hissing sound from the walls
+
+*(If they are not to fight and walk in front of the statue)* You hear whooshing noise as the statue lifts its shield, revealing for a brief moment, the carved face of a demon. From its mouth fires a pillar of flames.
+
+All in front of the statue need to make a dex save - DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
 
 
 ### HR's Office
