@@ -27,10 +27,14 @@ Their hand firms its grip on yours before pulling you closer, exposing your inne
 
 ### Welcome to Purgatory
 Everything is silent. You are now in a void of absolute darkness, it is cold and you've never felt so alone. 
+
 ```PLAY ARTIST'S GARRET - until they leave the house```
 Then, there is a voice .... **Mokat speaks**
 
 The players meet [[Mokat Irai the Necromancer|Mokat]]
+
+**Why the weird circle in the room?** 
+"Oh that? it randomly appeared here and out came the four of yous! It's usually how folks get sent to the afterlife but I'm surprised you've ended up here in purgatory"
 
 ### The River
 As all of you wait by the dock for the Ferryman you notice a pale flickering light glistening through the thick fog. Gently, the creaking gondola begins to push its way past the curtains of fog slowly pulling up to the dock so that each of you may hop on board. 
@@ -39,7 +43,7 @@ As all of you wait by the dock for the Ferryman you notice a pale flickering lig
 **Do you hop on board immediately or attempt to communicate with the ferryman?** He will stop you and ask for something of value but will then suggest that you may simply pay with a debt to him, a debt that he may call upon in the future.
 
 ```PLAY CROSSING THE STYX```
-Once the deal has been made, the Ferryman skillfully pushes the gondola away from the dock using his staff and you begin your journey northward. The water is murky though it's hard to really see with this thick fog surrounding you. The lantern at the front of the gondola can only do so much. As the quiet rowing starts to calm each of you down from the rude awakening you've had so far you start to hear soft thudding sounds against the base of the boat.
+Once the deal has been made, the Ferryman skilfully pushes the gondola away from the dock using his staff and you begin your journey northward. The water is murky though it's hard to really see with this thick fog surrounding you. The lantern at the front of the gondola can only do so much. As the quiet rowing starts to calm each of you down from the rude awakening you've had so far you start to hear soft thudding sounds against the base of the boat.
 
 **Do you inspect?** Upon a closer look to see past the boat's glass frame you begin to recognise what you believe are hundreds upon hundreds of hands weakly attempting to grasp onto the bottom of the boat. Occasionally the boat rocks at the force but the ferryman seems unbothered by this.
 
@@ -100,7 +104,6 @@ Rising before thee: I it is can make
          Old things give place  
          To thy free race.
 
-
 * If the players attack the statue, it will fight back, but only for one round. Then, it freezes once more.
 * Ask them to roll for initiative once
 
@@ -115,13 +118,14 @@ Against one wall is a empty basin, over which sits a stone bust of a dragons hea
 
 Each room also has a metal sconce mounted to the wall. 
 
-Finally, every room has a small wooden table, with a different object and a small note. In A there is a chess set with a missing piece, the note reads "complete me". 
+Finally, every room has a small wooden table, with a different object and a small note. 
+In A there is a chess set with a missing piece, the note reads "complete me". 
 In B is a book, the note reads "place me"
 In C is a ceramic jug, the note reads "fill me"
 In D is a candelabra, the note reads "light me"
 
 #### The Mystery Battle (Depends on time)
-You enter a dingy room. You can see a pathway to your right, alongside a pillar. You footsteps echo on the cracked stone floor. 
+You enter a dingy room. You can see a pathway to your right, alongside a pillar. Your footsteps echo on the cracked stone floor. 
 
 *DC 12 Perception check to find the slits in the wall where the boneless come out*
 
@@ -142,8 +146,7 @@ You see a crack form in the centre of the statue, that slowly widens, as you rea
 All in front of the statue need to make a dex save *(DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one)*
 
 
-
 ### HR's Office
-As you make your way down this dimly lit corridor, you notice that the grimy brick walls begin to glisten with a fresh coat of light blue paint. The sound of your boots hitting the cobble stone floor seems to shift into a gentle set of creaks instead and as you glance down you notice it's now all wood. In front of you is a figure sat under a pale yellow light behind a desk and as it looks up at you you get the odd sensation that it's smiling at you despite it's lack of ... well ... a *face*.
+As you make your way down this dimly lit corridor, you notice that the grimy brick walls begin to glisten with a fresh coat of light blue paint. The sound of your boots hitting the cobble stone floor seems to shift into a gentle set of creaks and as you glance down you notice it's now all wood. In front of you is a figure sat under a pale yellow light behind a desk and as it looks up at you you get the odd sensation that it's smiling at you despite it's lack of ... well ... a *face*.
 
-This is the HR department of the underworld ... and your new friend here is [[The Manager]]
+Welcome to the HR department of the underworld ... and your new friend here is [[The Manager]]
