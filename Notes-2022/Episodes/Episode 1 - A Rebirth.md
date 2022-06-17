@@ -127,17 +127,20 @@ You enter a dingy room. You can see a pathway to your right, alongside a pillar.
 
 As you round the corner you see large stone statue of a knight in full plate armour.
 
-*(if they are to fight - if they touch or walk in front of the statue)*
-
 You hear a whirring, followed by a whooshing and metallic clunk sound behind you as a iron gate slams in place in front of the door you just entered. The same happens for the door ahead of you.
 
-Roll initiative. 
+*(if they are to fight the mimic - if they touch or walk in front of the statue)*
+You see a crack form in the centre of the statue, that slowly widens, as you realize with rising horror that it is not a crack but a dripping mouth with rows of razor sharp teeth forming from this statue, and long black tentacle smashes into you
+*(mimic gets surprise round)*
 
-(In the first turn for the boneless's initiative) you hear a soft hissing sound from the walls
+**Roll initiative.**
 
-*(If they are not to fight and walk in front of the statue)* You hear whooshing noise as the statue lifts its shield, revealing for a brief moment, the carved face of a demon. From its mouth fires a pillar of flames.
+*(In the first turn for the boneless's initiative)* you hear a soft hissing sound from the walls
 
-All in front of the statue need to make a dex save - DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+*(If they are not to fight the mimic and walk in front of the statue)* You hear whooshing noise as the statue lifts its shield, revealing for a brief moment, the carved face of a demon. From its mouth fires a pillar of flames.
+
+All in front of the statue need to make a dex save *(DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one)*
+
 
 
 ### HR's Office
