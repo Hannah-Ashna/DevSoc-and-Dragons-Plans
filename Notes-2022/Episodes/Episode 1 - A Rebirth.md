@@ -153,3 +153,13 @@ All in front of the statue need to make a dex save *(DC 13 Dexterity saving thr
 As you make your way down this dimly lit corridor, you notice that the grimy brick walls begin to glisten with a fresh coat of light blue paint. The sound of your boots hitting the cobble stone floor seems to shift into a gentle set of creaks and as you glance down you notice it's now all wood. In front of you is a figure sat under a pale yellow light behind a desk and as it looks up at you you get the odd sensation that it's smiling at you despite it's lack of ... well ... a *face*.
 
 Welcome to the HR department of the underworld ... and your new friend here is [[The Manager]]
+
+**If players try to correct jar head they just hear a snap and BAM they're stood outside this massive fortress and we end there**
+
+Within a blink of an eye you're stood outside with the gentle forest breeze whizzing past you. Well so much for getting help from HR ... further up ahead you all notice a grand and mighty fortress with armed guards patrolling its borders. This must be the watcher's camp... 
+
+Mok chimes in - you'll need to be careful here ... this might be the quickest way to get to Death but these guards are professionals at sniffing folks like you out in a matter of seconds.
+
+**Do you head on forward?**
+
+As you make your way on to the watcher's camp to hopefully lie your way past the obstacles, a quiet shadow follows suit in the distance... and that's where we'll end it today
