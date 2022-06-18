@@ -13,6 +13,8 @@ Before you stands a small, lithe rabbit-man - otherwise known as a Harengon. He 
 #### The Initial Manipulation
 "Based on the symbol that's been branded onto each of you, I do believe you've been given a few days left to live. I assume you've made some sort of deal in your lifetime right before coming here? 
 
+**The symbol is of an hourglass with sand slowly trickling down**
+
 You haven't? Ah then there's been a mistake!"
 
 "You'll need to venture further north to meet with Death and bargain for the return of your lives. You must be careful though, this realm does not take too kindly to those who are of flesh and bone still ... you may be teetering on the edge of death but all of you still reek of life and those darn soldiers will be about to sniff you out. 

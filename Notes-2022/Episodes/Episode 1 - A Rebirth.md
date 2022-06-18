@@ -34,8 +34,6 @@ The players meet [[Mokat Irai the Necromancer|Mokat]]
 
 Looking around you see what looks to be some sort of magical circle on the floor that's a little bit scuffed up -- probably from all of you lying on top of it. This home is a cozy one. The quite crackling of the firewood heats up the home. Across from you there is a nice little arm chair sat atop a bear skin rug, surrounded by heaps, upon heaps of books, scrolls and scribbles. 
 
-
-
 **Why the weird circle in the room?** 
 "Oh that? it randomly appeared here and out came the four of yous! It's usually how folks get sent to the afterlife but I'm surprised you've ended up here in purgatory"
 
