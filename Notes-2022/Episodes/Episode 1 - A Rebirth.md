@@ -30,9 +30,11 @@ Everything is silent. You are now in a void of absolute darkness, it is cold and
 
 ```PLAY ARTIST'S GARRET - until they leave the house```
 Then, there is a the gentle lull of rain droplets, followed by the soft, warm embrace of another voice .... **Mokat speaks**
+The players meet [[Mokat Irai the Necromancer|Mokat]]
+
 Looking around you see what looks to be some sort of magical circle on the floor that's a little bit scuffed up -- probably from all of you lying on top of it. This home is a cozy one. The quite crackling of the firewood heats up the home. Across from you there is a nice little arm chair sat atop a bear skin rug, surrounded by heaps, upon heaps of books, scrolls and scribbles. 
 
-The players meet [[Mokat Irai the Necromancer|Mokat]]
+
 
 **Why the weird circle in the room?** 
 "Oh that? it randomly appeared here and out came the four of yous! It's usually how folks get sent to the afterlife but I'm surprised you've ended up here in purgatory"
