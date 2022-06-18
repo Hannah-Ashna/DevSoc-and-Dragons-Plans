@@ -29,7 +29,8 @@ Their hand firms its grip on yours before pulling you closer, exposing your inne
 Everything is silent. You are now in a void of absolute darkness, it is cold and you've never felt so alone. 
 
 ```PLAY ARTIST'S GARRET - until they leave the house```
-Then, there is a voice .... **Mokat speaks**
+Then, there is a the gentle lull of rain droplets, followed by the soft, warm embrace of another voice .... **Mokat speaks**
+Looking around you see what looks to be some sort of magical circle on the floor that's a little bit scuffed up -- probably from all of you lying on top of it. This home is a cozy one. The quite crackling of the firewood heats up the home. Across from you there is a nice little arm chair sat atop a bear skin rug, surrounded by heaps, upon heaps of books, scrolls and scribbles. 
 
 The players meet [[Mokat Irai the Necromancer|Mokat]]
 
