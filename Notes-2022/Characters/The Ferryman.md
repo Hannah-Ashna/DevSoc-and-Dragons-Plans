@@ -3,12 +3,12 @@ The Ferryman can only be described as an intimidating figure dressed in a heavy 
 
 Their boat is a long gondola, made of clear glass, and inlaid with obsidian patterns too intricate for you to comprehend. At the foot of it is a lantern, lit with a similar golden light. 
 
-Makes an appearance in [[Episode 1 - A Rebirth#The River]]
+Makes an appearance in [[Episode 1 - Unfamiliar Territory#The River]]
 
 ### Other Roles
 #### The Receptionist
 Yeah, you're definitely sure that's the ferryman ... except as you look at them now you get the intense feeling that they are wearing a tie and glasses despite the fact that you're unable to see past the bright light the emanates from them.
 
-Makes an appearance in [[Episode 1 - A Rebirth#The Church - Waiting Room]]
+Makes an appearance in [[Episode 1 - Unfamiliar Territory#The Church - Waiting Room]]
 
 #### The Guard
