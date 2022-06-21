@@ -88,7 +88,9 @@ As time goes on and you listen to these numbers get called out you watch as one 
 * You're unsure of how time works within this realm but it's felt like an eternity, the ferryman continues to drone on '56,789 .... 56,790 ..." none of you has been given a number to wait on and this church looks busy -- it might be a long time before anyone gets around to speaking with you and you're on a time limit! From the corner of your eye, Patro, you notice what you believe is one of death's soldiers, clad in a suit of armour enter from the doorway and march straight down the aisle. He presses his hand against the stained glass and is immediately transported elsewhere. 
 
 ### Dungeons
-As you walk up to the stained glass window, no one in the room seems to object -- in fact the ferryman hasnt even bothered to look up at any of you as they continues on with their numbers ... as you put your palm up against the window, you watch as it begins to frantically switch between all sorts of images. They flash by too quickly but you manage to catch a glimpse of a white desert, a dark room with dark ooze dripping from the walls and a quiet little farm. Finally it stops at a dimly lit dungeon with a statue in the centre. The glass then begins to pull each of you in and within a blink you are all now face to face with this statue. 
+As you walk up to the stained glass window, no one in the room seems to object -- in fact the ferryman hasnt even bothered to look up at any of you as they continues on with their numbers ... 
+
+as you put your palm up against the window, you watch as it begins to frantically switch between all sorts of images. They flash by too quickly but you manage to catch a glimpse of a white desert, a dark room with dark ooze dripping from the walls and a quiet little farm. Finally it stops at a dimly lit dungeon with a statue in the centre. The glass then begins to pull each of you in and within a blink you are all now face to face with this statue. 
 ```PLAY CATACOMBS```
 
 #### The Statue Puzzle
