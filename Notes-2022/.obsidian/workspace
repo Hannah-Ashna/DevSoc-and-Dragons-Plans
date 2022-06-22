@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Episodes/Episode 2 - Friend or Foe.md",
+            "file": "Players/Faye - Evelyn.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/Episode 2 - Friend or Foe.md",
+                "file": "Players/Faye - Evelyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
+    "Players/Faye - Evelyn.md",
+    "Players/Jeremy Varren - Ryder.md",
+    "Players/Jo Beidan - Diren.md",
+    "Players/Patro - Alex.md",
     "Episodes/Episode 2 - Friend or Foe.md",
+    "Episodes/Episode 1 - Unfamiliar Territory.md",
     "Characters/Death's Soldiers.md",
     "Characters/Cerberus the Crust Dog.md",
     "Characters/Lieutenant Commander Firestar.md",
-    "Episodes/Episode 1 - Unfamiliar Territory.md",
-    "Characters/Thatcher the Rat Catcher.md",
-    "Players/Faye - Evelyn.md",
-    "Characters/Mokat Irai the Necromancer.md",
-    "Characters/The Manager.md",
-    "Characters/The Ferryman.md"
+    "Characters/Thatcher the Rat Catcher.md"
   ]
 }

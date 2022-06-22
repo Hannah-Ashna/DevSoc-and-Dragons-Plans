@@ -1,4 +1,5 @@
 # All things return to Tavern
+```PLAY ARTIST'S GARRET```
 Last week we left our brave adventurers in the company of [[Mokat Irai the Necromancer|Mok]], the Harengon as he freed himself of his trinket form and conjured up a little safe space for our party outside the gates of the Watcher's Camp to have a nice little short rest. The manager, AKA a brain in a jar mentioned that each of you died during battle and thus are now being enlisted as new recruits for deaths army. With your new uniforms in hand and your lives on the line -- perhaps it's time to suit up for your next mission. Though ... you can't help but linger on the thought of how you came to be here. Unfortunately, for each of you your memory is foggier than the ocean you crossed to get here. The furthest thing in your memory that you can recall is a pedestal out in a white desert. 
 
 Morning in the underworld feels surprisingly pleasant as the warm rays of light come shining through the windows of Mok's little portable tavern. Each of you is woken up from your little nap with the comforting smell of a hot breakfast. Mok seems to be busy in the kitchen, cooking up something that smells rather good. All of your stomachs growl simultaneously, forming a cacophony of sounds which startles Mok.
@@ -38,9 +39,12 @@ You'll need to get through your base training to earn your passes that'll give y
 > Maybe some more discussion on the dumb shit they'll wanna do before arriving
 > Do they put on their uniforms?
 
+```STOP ARTIST'S GARRET```
+
 ---------
 
 # Watchers Camp
+```PLAY CLASH OF KINGS```
 Upon exiting Mok's cozy tavern and basking underneath the sunlight of the underworld, you all watch as Mok gestures grandly and the tavern fizzles out of existence. Mok then assumes the form of the trinket around Jo's neck. Up ahead, is your next challenge, getting past the tight security to get to the gate that leads to Necropolis. 
 
 As you all make your way up towards the fortress you cross over a small stream using a rickety old bridge. In front of the fortress stands two satyr guards. Each of them gives you all a quick glance and then a cheeky grin at each other before one yells out loud.
@@ -74,7 +78,11 @@ He beckons all of you into the camp...
 **PLAYER ACTION:**
 >  Do you enter with him? Do you say anything else? Ask him anything else?
 
+```STOP CLASH OF KINGS```
+
+------
 # The Fight
+```PLAY ENDGAME```
 As you enter the camp you feel the ground tremble as large groups of troops march about the area in unison. The sounds of soldier chanting out loud are mixed together with the clangs of metal clashing against each other in the distance. However, the blaring sounds aren't enough to drown out what you're quite sure is wailing and screaming in the distance. Perhaps it's coming from their infirmary. 
 
 The buildings here feel rather bland, with their wooden rooftops and dirty concrete walls. You suspect these were white at some point but who cares for walls when you have swords to sharpen and foes to behead. 
@@ -90,6 +98,8 @@ Thus, we'll start our day off with a little bit of an assessment into your capab
 >  If players decline to fight, Firestar he will just whoop their azz instead. We can cut this short depending on how long it's looking to take
 >  If they fight, Firestar will heal them all up afterwards?
 
+```STOP ENDGAME```
+
 ---------
 # The Tour
 Firestar applauds all of you for your impressive performance, his grin widens and he nods approvingly. 
@@ -97,6 +107,8 @@ Firestar applauds all of you for your impressive performance, his grin widens an
 **FIRESTAR:** "Oh how I wish to have fought alongside you all in battle... Alright let's give you the tour of the place and show you what we do out here"
 
 He will unlock the doorway to the training centre and lead you out into the camp. Your tour comprises of him showing you about the watchers camp alongside a brief lesson into the hierarchy of Death's Army. By the time you finally reach your final stop on the tour you're quite sure you've shaken at least a 100 different hands and met an array of different folks. Your pit stop at the cafeteria was probably the most exciting part of the tour since it came with free cookies. Firestar seems to ramble on about the two main types of soldiers ...
+
+```PLAY SWAMPLANDIA```
 
 **FIRESTAR:** "So you see you all are what we called the recruited, folks who were warriors in life and have elected to continue to be so in death and out here in the Sanguine swamps is where we get the drafted, individuals who were bad in life and thus sent to these swamps and forced to repent. If they are 'ready' we then come out here and pick them up to begin their training. Be warned though, even a day out here can turn you into a mindless zombie ..."
 
@@ -126,7 +138,15 @@ The curly brown-haired human man cuts Firestar off and looks over at you Jeremy.
 **PLAYER ACTION:**
 > Jeremy, all of a sudden your mind begins to overflow with memories of your family... you're starting to remember who you are a little bit.
 > Do you answer his question?
+> If he says yes - Arbuckle is lenient and decides to imprison them 
+> If he says no - Arbuckle reiterates that he is quite sure Jeremy is and will chose to imprison them instead to live out their remaining days of life.
+> 
+> Players can make a history check (+14) to figure out who the fuck this guy even is - He is a man of myth, the original warrior to imprison Octogarf beneath Snottingham many moons ago. He has a great appreciation for all those that fought against that horrifying monstrosity and it appears he might have a soft spot for Jeremy if he is indeed who he thinks he is.
 
+```STOP SWAMPLANDIA```
+
+--------
+# The Prison
 
 
 
