@@ -207,5 +207,8 @@ The alley is surprisingly long. As you walk through it you hear the scurrying of
 *Take them to the map*
 
 **PLAYER ACTION:** 
-> Where are you going first?
+> Where are you going first? 
+> 	- We're going to use soft initiative, so you can say and do what you're doing or where you're going for each round
+> 	- If all sneaking as a group they need to make a group stealth check - take median value of all of their stealth checks
+> 
 
