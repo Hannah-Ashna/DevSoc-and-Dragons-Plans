@@ -147,6 +147,52 @@ The curly brown-haired human man cuts Firestar off and looks over at you Jeremy.
 
 --------
 # The Prison
+The four of you have your weapons stripped from you and are dragged to a run down building on the edge of camp. Inside, you are corralled into a cramped cell. You get the sense that they don't often have reason to imprison anyone, based on weeds growing through the cracked stone floor and musky smell of damp. The only light filters in through a small window barred window at the top of the cell.
+
+As the cell door is locked and the guards begin to filter out, Arbuckle turns to you one last time.
+
+**ARBUCKLE:** I hope you understand, once the time runs out we can talk about you becoming recruited again.
+
+He then leaves, as do the last of the guards, abandoning you in the darkness. 
+
+Its silent for a moment, except the skittering of rats feet on the cobble. But then, in the darkness of the cell, there's movement, as a figure melds out from the darkness and into the pillar of light for you all to see. Introduce [[Thatcher the Rat Catcher]]
+
+**THATCHER:** Hi! I'm Thatcher, rat catcher and cat snatcher! I snatch the cats who catch the rat cuz rats make for tasty snacks! 
+
+**PLAYER ACTION:**
+> Give players a chance to ask questions and will respond;
+
+>IF THEY ASK WHO THATCHER IS:
+>After this Players may make a religion or insight check (DC 10) to realize that Thatcher is a dead God
+
+**THATCHER:** I once was where there were alleys, and cats and rats, and alley cats and alley rats. I had hosts; catchers and snatchers who mad many oaths, but now all of us are ... ghosts!
+
+>IF THEY ASK HOW / WHY HE IS IN THE CELL:
+
+**THATCHER:** Cats, like rats, are at my will, and the big cat of the camp did not think that was brill. I could leave whenever I want, but he's so much fun to taunt!
+
+>CUT OFF WITH
+
+**THATCHER:** Anyways, according to my nosies, you reek of rosies and posies! so if *you* have the chance at returning to the mortal coil, then so do I, boyo! If you pinky swear you'll keep me in your prayer once you're back there, then I can free you from from this square!
+
+Thatcher holds out his pinky finger in the air expectantly. 
+
+**PLAYER ACTION:**
+> Give players the chance to take or decline Thatchers offer (Only one needs to)
+> If they accept:
+
+You hook your pinky into Thatchers and he grins wildly at you 
+
+**THATCHER**: Do you swear to give me prayer, and spread my name across the mortal plane?
+
+> Player accepts?
+
+Thatcher's smile widens further still, and a warm light appears where his pinky meets yours - which grows brighter and brighter, the heat of it teetering on uncomfortable before he releases you. There is a golden scar wrapped around your finger like a ring.
+
+Thatcher then turns to the back wall of the cell and presses his fingers into the grimy stone. After a second, the bricks begin to shift and warp, parting before him to reveal a dark alley with a light at the end. A cat wanders out of the alley and weaves through his ankles.
+
+**Thatcher:** Go now friends - I look forward to seeing how this ends!
 
 
-
+--------
+# Escaping the Camp
