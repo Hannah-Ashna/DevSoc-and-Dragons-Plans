@@ -235,4 +235,4 @@ As you make your way across the bloodied earth, Jo, you notice from the corner o
 
 Each of you comes barrelling through the cave as a result of the speeds at which you've been running at, the entrance is then sealed off by some tumbling rocks that you're not quite sure how they got there in the first place ...  Now everything has gone dark, the cave reeks of iron and for those of you without dark vision you're struggling to get a sense of direction in here. The is however, the soft glow of a green light coming from around the corner.  In the distance you hear a peculiar warping sound, followed by a familiar voice - cue thatcher's one liner or something:
 
-**THATCHER:** " ??? "
+**THATCHER:** "Hi! I'm Thatcher, rat catcher and cat snatcher! I snatch the cats who catch the rat cuz rats make for tasty snacks!"
