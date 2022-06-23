@@ -79,16 +79,16 @@ He beckons all of you into the camp...
 **PLAYER ACTION:**
 >  Do you enter with him? Do you say anything else? Ask him anything else?
 
-```STOP CLASH OF KINGS```
-
 ------
 # The Fight
-```PLAY ENDGAME```
+
 As you enter the camp you feel the ground tremble as large groups of troops march about the area in unison. The sounds of soldier chanting out loud are mixed together with the clangs of metal clashing against each other in the distance. However, the blaring sounds aren't enough to drown out what you're quite sure is wailing and screaming in the distance. Perhaps it's coming from their infirmary. 
 
 The buildings here feel rather bland, with their wooden rooftops and dirty concrete walls. You suspect these were white at some point but who cares for walls when you have swords to sharpen and foes to behead. 
 
 Firestar leads all of you through an arched doorway and into a magnificent circular courtyard that's open to the skies. It looks to be some sort of minitature arena. He shuts the door behind all of you once you're in and locks it. 
+```STOP CLASH OF KINGS```
+```PLAY ENDGAME```
 
 **FIRESTAR:** "Forgive me for putting each of you on the spot like this but the manager isn't known for her great taste in warriors ... According to your records you've all died in battle but I'm sure you know that any fool can die a mundane death in battle, it takes a great warrior to do so gloriously
 
@@ -157,6 +157,7 @@ For the rest of you, you watch as Patro's eyes roll back into his skull, showing
 
 --------
 # The Prison
+```PLAY CASTLE JAIL```
 The four of you have your weapons stripped from you and are dragged to a run down building on the edge of camp. Inside, you are corralled into a cramped cell. You get the sense that they don't often have reason to imprison anyone, based on weeds growing through the cracked stone floor and musky smell of damp. The only light filters in through a small window barred window at the top of the cell.
 
 As the cell door is locked and the guards begin to filter out, Arbuckle turns to you one last time.
@@ -211,9 +212,11 @@ Thatcher then turns to the back wall of the cell and presses his fingers into th
 **Thatcher:** "Go now friends - I look forward to seeing how this ends!"
 
 And with a wave, Thatcher fades back into the darkness.
+```STOP CASTLE JAIL```
 
 --------
 # Escaping the Camp
+```PLAY ESCAPE FROM SHADOW```
 The alley is surprisingly long. As you walk through it you hear the scurrying of rats in the dark beneath you, and have to scoot around boxes and trash, before finally re-emerging into the light. Only you find yourselves on the other side of the wall to your cell, the bricks resealing the mouth of the alley in the same way they revealed it before.
 
 *Take them to the map*
