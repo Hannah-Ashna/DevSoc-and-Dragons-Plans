@@ -38,6 +38,7 @@ You'll need to get through your base training to earn your passes that'll give y
 >**PLAYER ACTION:**
 > Maybe some more discussion on the dumb shit they'll wanna do before arriving
 > Do they put on their uniforms?
+> MOK gives them a perfume to mask their scent of the living - smells of damp soot. 
 
 ```STOP ARTIST'S GARRET```
 
@@ -143,6 +144,15 @@ The curly brown-haired human man cuts Firestar off and looks over at you Jeremy.
 > 
 > Players can make a history check (+14) to figure out who the fuck this guy even is - He is a man of myth, the original warrior to imprison Octogarf beneath Snottingham many moons ago. He has a great appreciation for all those that fought against that horrifying monstrosity and it appears he might have a soft spot for Jeremy if he is indeed who he thinks he is.
 
+As you are all being dragged away to the prison cells of the camp ... 
+
+**PLAYER ACTION:**
+> Could I please get each of your passive perceptions?
+
+Patro, you lock eyes with a shadowy figure in the distance, it's glowing white eyes blind you briefly and then you see flashes of a bright green flames followed by the gruesome image of a boney hand ripping your heart out of your chest and squeezing it into mush. Your sense are overwhelmed and so you collapse in the arms of the guards pulling you along.
+
+For the rest of you, you watch as Patro's eyes roll back into his skull, showing just the whites of his eyes and in a matter of seconds he goes limp. 
+
 ```STOP SWAMPLANDIA```
 
 --------
@@ -151,29 +161,30 @@ The four of you have your weapons stripped from you and are dragged to a run dow
 
 As the cell door is locked and the guards begin to filter out, Arbuckle turns to you one last time.
 
-**ARBUCKLE:** I hope you understand, once the time runs out we can talk about you becoming recruited again.
+**ARBUCKLE:** "I hope you understand, once the time runs out we can talk about you becoming recruited again."
 
 He then leaves, as do the last of the guards, abandoning you in the darkness. 
 
 Its silent for a moment, except the skittering of rats feet on the cobble. But then, in the darkness of the cell, there's movement, as a figure melds out from the darkness and into the pillar of light for you all to see.  [[Thatcher the Rat Catcher]]
 
-**THATCHER:** Hi! I'm Thatcher, rat catcher and cat snatcher! I snatch the cats who catch the rat cuz rats make for tasty snacks! 
+**THATCHER:** "Hi! I'm Thatcher, rat catcher and cat snatcher! I snatch the cats who catch the rat cuz rats make for tasty snacks!"
 
 **PLAYER ACTION:**
 > Give players a chance to ask questions and will respond;
-
+> 
 >IF THEY ASK WHO THATCHER IS:
 >After this Players may make a religion or insight check (DC 10) to realize that Thatcher is a dead God
 
-**THATCHER:** I once was where there were alleys, and cats and rats, and alley cats and alley rats. I had hosts; catchers and snatchers who mad many oaths, but now all of us are ... ghosts!
+**THATCHER:** "I once was where there were alleys, and cats and rats, and alley cats and alley rats. I had hosts; catchers and snatchers who mad many oaths, but now all of us are ... ghosts!"
 
+**PLAYER ACTION:**
 >IF THEY ASK HOW / WHY HE IS IN THE CELL:
 
-**THATCHER:** Cats, like rats, are at my will, and the big cat of the camp did not think that was brill. I could leave whenever I want, but he's so much fun to taunt!
+**THATCHER:** "Cats, like rats, are at my will, and the big cat of the camp did not think that was brill. I could leave whenever I want, but he's so much fun to taunt!"
 
 >CUT OFF WITH
 
-**THATCHER:** Anyways, according to my nosies, you reek of rosies and posies! so if *you* have the chance at returning to the mortal coil, then so do I, boyo! If you pinky swear you'll keep me in your prayer once you're back there, then I can free you from from this square!
+**THATCHER:** "Anyways, according to my nosies, you reek of rosies and posies! so if *you* have the chance at returning to the mortal coil, then so do I, boyo! If you pinky swear you'll keep me in your prayer once you're back there, then I can free you from from this square!"
 
 Thatcher holds out his pinky finger in the air expectantly. 
 
@@ -183,20 +194,21 @@ Thatcher holds out his pinky finger in the air expectantly.
 
 You hook your pinky into Thatchers and he grins wildly at you 
 
-**THATCHER**: Do you swear to give me prayer, and spread my name across the mortal plane?
+**THATCHER**: "Do you swear to give me prayer, and spread my name across the mortal plane?"
 
+**PLAYER ACTION:**
 > Player accepts?
 
 Thatcher's smile widens further still, and a warm light appears where his pinky meets yours - which grows brighter and brighter, the heat of it teetering on uncomfortable before he releases you. Once you pull away you see a golden scar wrapped around your finger like a ring.
 
-**THATCHER:** I give you time to get you plans in line, just let me know when you want to go!
+**THATCHER:** "I give you time to get you plans in line, just let me know when you want to go!"
 
 **PLAYER ACTION:**
 > Give players chance to plan their next move - show map?
 
 Thatcher then turns to the back wall of the cell and presses his fingers into the grimy stone. After a second, the bricks begin to shift and warp, parting before him to reveal a dark alley with a light at the end. A cat wanders out of the alley and weaves through his ankles.
 
-**Thatcher:** Go now friends - I look forward to seeing how this ends!
+**Thatcher:** "Go now friends - I look forward to seeing how this ends!"
 
 And with a wave, Thatcher fades back into the darkness.
 
@@ -210,5 +222,14 @@ The alley is surprisingly long. As you walk through it you hear the scurrying of
 > Where are you going first? 
 > 	- We're going to use soft initiative, so you can say and do what you're doing or where you're going for each round
 > 	- If all sneaking as a group they need to make a group stealth check - take median value of all of their stealth checks
-> 
 
+
+# The Figure & the Cave
+As you make your way across the bloodied earth, Jo, you notice from the corner of your eye a shadowy figure gesturing towards a cave in the distance. It's eyes beckon out to you and you're overcome with a sense of comfort and warmth. The cave it's gesturing to is not too far away though you're not quite sure if the others have noticed your new friend or not.
+
+**PLAYER ACTION:** 
+> Do they enter the cave? or do they try to go elsewhere? If they try elsewhere the figure will try to charm them, they must make a wisdom saving throw +15 to defeat it?
+
+Each of you comes barrelling through the cave as a result of the speeds at which you've been running at, the entrance is then sealed off by some tumbling rocks that you're not quite sure how they got there in the first place ...  Now everything has gone dark, the cave reeks of iron and for those of you without dark vision you're struggling to get a sense of direction in here. The is however, the soft glow of a green light coming from around the corner.  In the distance you hear a peculiar warping sound, followed by a familiar voice - cue thatcher's one liner or something:
+
+**THATCHER:** " ??? "
