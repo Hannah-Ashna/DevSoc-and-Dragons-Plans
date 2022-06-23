@@ -155,7 +155,7 @@ As the cell door is locked and the guards begin to filter out, Arbuckle turns to
 
 He then leaves, as do the last of the guards, abandoning you in the darkness. 
 
-Its silent for a moment, except the skittering of rats feet on the cobble. But then, in the darkness of the cell, there's movement, as a figure melds out from the darkness and into the pillar of light for you all to see. Introduce [[Thatcher the Rat Catcher]]
+Its silent for a moment, except the skittering of rats feet on the cobble. But then, in the darkness of the cell, there's movement, as a figure melds out from the darkness and into the pillar of light for you all to see.  [[Thatcher the Rat Catcher]]
 
 **THATCHER:** Hi! I'm Thatcher, rat catcher and cat snatcher! I snatch the cats who catch the rat cuz rats make for tasty snacks! 
 
@@ -187,12 +187,25 @@ You hook your pinky into Thatchers and he grins wildly at you
 
 > Player accepts?
 
-Thatcher's smile widens further still, and a warm light appears where his pinky meets yours - which grows brighter and brighter, the heat of it teetering on uncomfortable before he releases you. There is a golden scar wrapped around your finger like a ring.
+Thatcher's smile widens further still, and a warm light appears where his pinky meets yours - which grows brighter and brighter, the heat of it teetering on uncomfortable before he releases you. Once you pull away you see a golden scar wrapped around your finger like a ring.
+
+**THATCHER:** I give you time to get you plans in line, just let me know when you want to go!
+
+**PLAYER ACTION:**
+> Give players chance to plan their next move - show map?
 
 Thatcher then turns to the back wall of the cell and presses his fingers into the grimy stone. After a second, the bricks begin to shift and warp, parting before him to reveal a dark alley with a light at the end. A cat wanders out of the alley and weaves through his ankles.
 
 **Thatcher:** Go now friends - I look forward to seeing how this ends!
 
+And with a wave, Thatcher fades back into the darkness.
 
 --------
 # Escaping the Camp
+The alley is surprisingly long. As you walk through it you hear the scurrying of rats in the dark beneath you, and have to scoot around boxes and trash, before finally re-emerging into the light. Only you find yourselves on the other side of the wall to your cell, the bricks resealing the mouth of the alley in the same way they revealed it before.
+
+*Take them to the map*
+
+**PLAYER ACTION:** 
+> Where are you going first?
+
