@@ -2,7 +2,9 @@
 ```PLAY ARTIST'S GARRET```
 Last week we left our brave adventurers in the company of [[Mokat Irai the Necromancer|Mok]], the Harengon as he freed himself of his trinket form and conjured up a little safe space for our party outside the gates of the Watcher's Camp to have a nice little short rest. The manager, AKA a brain in a jar mentioned that each of you died during battle and thus are now being enlisted as new recruits for deaths army. With your new uniforms in hand and your lives on the line -- perhaps it's time to suit up for your next mission. Though ... you can't help but linger on the thought of how you came to be here. Unfortunately, for each of you your memory is foggier than the ocean you crossed to get here. The furthest thing in your memory that you can recall is a pedestal out in a white desert. 
 
-Morning in the underworld feels surprisingly pleasant as the warm rays of light come shining through the windows of Mok's little portable tavern. Each of you is woken up from your little nap with the comforting smell of a hot breakfast. Mok seems to be busy in the kitchen, cooking up something that smells rather good. All of your stomachs growl simultaneously, forming a cacophony of sounds which startles Mok.
+The timeline so far is that you entered the underworld in the late evening, braved the challenges of the HR dungeon through till morning and now you rest all snug and cozy into the mid afternoon
+
+Afternoons in the underworld feels surprisingly pleasant as the warm rays of light come shining through the windows of Mok's little portable tavern. Each of you is woken up from your little nap with the comforting smell of a hot lunch. Mok seems to be busy in the kitchen, cooking up something that smells rather good. All of your stomachs growl simultaneously, forming a cacophony of sounds which startles Mok.
 
 **MOK:** "Ah .. I see you're all awake ... hopefully a little bit better rested after all that dungeon crawling you've had to do ..." 
 
