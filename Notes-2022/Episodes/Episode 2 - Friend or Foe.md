@@ -10,7 +10,7 @@ Mok serves you each a nice warm bowl of .... uh .... _something???_ it looks lik
 It smells delicious though ... 
 
 >**PLAYER ACTION:** 
->Do you try the food? (If yes it heals them up completely) 
+>Do you try the food? (If yes it heals them up by 1d10) 
 >If they ask what's in it just list off a bunch of really weird items
 >If they ask what it's called just call it something absurd
 
@@ -118,7 +118,7 @@ You now all stand before the border between the swamp and the camp. The sound of
 **PLAYER ACTION:**
 > The smell is so overbearing and thus, can each of you please make a con save to see whether you throw up or not? (12 and above they save)
 
-Firestar chuckles softly to himself before freezing and locking eyes with something behind you Faye. You watch as Firestar's gaze slowly moves down to your arm, his eyes widen in disbelief and in a split second you hear the whizzing of a flare ascend into the sky and crackle up above. The booming sound of sirens begin to set off as you watch soldiers in the distance scatter all about to get a closer look. In a matter of minutes you four are now surrounded by soldiers as their blades and spells lock onto. There is disappointment in Firestar's eyes. His expression is a solemn one.
+Firestar chuckles softly to himself before freezing and locking eyes with something behind you Faye. You watch as Firestar's gaze slowly moves down to your arm, his eyes widen in disbelief and in a split second you hear the whizzing of a flare ascend into the sky and crackle up above. The booming sound of sirens begin to set off from a the mouth of raven at the top of a totem in the centre of camp. You watch as soldiers in the distance scatter all about to get a closer look. In a matter of minutes you four are now surrounded by soldiers as their blades and spells lock onto you. There is disappointment in Firestar's eyes. His expression is a solemn one.
 
 **FIRESTAR:** "Unfortunately, I think we'll have to cut your training session here a little short ... I've seen that marking before and I'm not stupid. We've had plenty of the likes of yous come around trying to kill Death and I won't let you. Perhaps you can sit out there in the company of the drafted as you contemplate your heinous sin.
 
@@ -143,6 +143,8 @@ The curly brown-haired human man cuts Firestar off and looks over at you Jeremy.
 > If he says no - Arbuckle reiterates that he is quite sure Jeremy is and will chose to imprison them instead to live out their remaining days of life.
 > 
 > Players can make a history check (+14) to figure out who the fuck this guy even is - He is a man of myth, the original warrior to imprison Octogarf beneath Snottingham many moons ago. He has a great appreciation for all those that fought against that horrifying monstrosity and it appears he might have a soft spot for Jeremy if he is indeed who he thinks he is.
+> 
+> If they choose to fight - go straight to break and set up escaping camp map - have them run into the swamp
 
 As you are all being dragged away to the prison cells of the camp ... 
 
@@ -176,9 +178,8 @@ Its silent for a moment, except the skittering of rats feet on the cobble. But t
 >IF THEY ASK WHO THATCHER IS:
 >After this Players may make a religion or insight check (DC 10) to realize that Thatcher is a dead God
 
-**THATCHER:** "I once was where there were alleys, and cats and rats, and alley cats and alley rats. I had hosts; catchers and snatchers who mad many oaths, but now all of us are ... ghosts!"
+**THATCHER:** "I once was where there were alleys, and cats and rats, and alley cats and alley rats. I had hosts; catchers and snatchers who made many oaths, but now all of us are ... ghosts!"
 
-**PLAYER ACTION:**
 >IF THEY ASK HOW / WHY HE IS IN THE CELL:
 
 **THATCHER:** "Cats, like rats, are at my will, and the big cat of the camp did not think that was brill. I could leave whenever I want, but he's so much fun to taunt!"
@@ -225,6 +226,29 @@ The alley is surprisingly long. As you walk through it you hear the scurrying of
 > Where are you going first? 
 > 	- We're going to use soft initiative, so you can say and do what you're doing or where you're going for each round
 > 	- If all sneaking as a group they need to make a group stealth check - take median value of all of their stealth checks
+
+#### Deactivating the alarm 
+The totem in the centre of camp has 3 levels, the bottom tier has the carved face of a bear, the middle a wolf and the top a raven. At the very base of the totem, a note written in crayon is pinned. The handwriting is childlike, but you're able to make out what it says.
+
+"Quiet comes when the most protective beast sees where it's pack sleeps,
+The largest beast sees where it can find a feast,
+and the freest beast is finally released"
+
+> Solution: turn the wolf to face the barracks, the bear to face the mess hall and then there will be a click and they can fully remove the raven totem
+
+#### Opening the Gate
+At the top of the tower you find a crank and a chain
+
+#### Hot Exit - Swamp
+
+
+#### Hot Exit - Gate
+
+
+#### Stealth Exit - Swamp
+
+
+#### Stealth Exit - Gate
 
 
 # The Figure & the Cave
