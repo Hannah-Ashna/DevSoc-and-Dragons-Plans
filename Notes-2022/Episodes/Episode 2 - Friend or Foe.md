@@ -239,24 +239,60 @@ and the freest beast is finally released"
 #### Opening the Gate
 At the top of the tower you find a crank and a chain
 
-#### Hot Exit - Swamp
+If they turn it without someone on the other side > as you start to turn it you realize that there's a lot of resistance, and the chain is is only attached to one side of the gate
+
+With someone on the other side > as you both turn the crank, the gate slowly begins to rise, it looks like its going to take some time for the gate to get high enough
+
+The sound of the gate rising is also pretty loud
+
+DC 20 Athletics check to manually lift the gate bottom - which they have to remake each turn or if they get hit
 
 
-#### Hot Exit - Gate
 
-
-#### Stealth Exit - Swamp
-
-
-#### Stealth Exit - Gate
-
-
+---
 # The Figure & the Cave
 As you make your way across the bloodied earth, Jo, you notice from the corner of your eye a shadowy figure gesturing towards a cave in the distance. It's eyes beckon out to you and you're overcome with a sense of comfort and warmth. The cave it's gesturing to is not too far away though you're not quite sure if the others have noticed your new friend or not.
 
+#### Hot Exit (Exit while fighting)
+You start to sprint out into the swamp, weaving between mindless drafted lunging for you - behind you you can hear the yells of orders and marching feet but if any of you glance back, it doesn't look like you're being pursued. Instead you see soldiers lining the walls and mouth of camp.
+
+**Long Version - Combat Rules** 
+	The cave is about 3 rounds away if you all dash - or 6 if you want to take the dodge action on each of your turns. Dodging gives advantage on dex saves and enemies disadvantage to hit.
+	*Each round a hale of arrows is released*
+		DC 14 dex save and take 3d6 piercing damage on a failed save, or half as much damage on a successful one. Each round the DC decreases by 1.
+	*Every other round 2 Ballista Shots are fired (optional)* - 
+		Ranged Weapon Attack: +6 to hit, range 120 ft., one target. Hit: 1d10 piercing damage
+
+**Short Version - Non Combat Rules**
+	As you're running you hear Firestar's roar and a volley of arrows hale from the sky 
+		*DC 12 dex save and take 3d10 piercing damage on a failed save, or half as much damage on a successful one.*
+	You keep running - the yelling getting further and further away, and the hale of arrows thinning out as you get too far for them to hit anymore
+
+
+#### The Cave
 **PLAYER ACTION:** 
 > Do they enter the cave? or do they try to go elsewhere? If they try elsewhere the figure will try to charm them, they must make a wisdom saving throw +15 to defeat it?
 
 Each of you comes barrelling through the cave as a result of the speeds at which you've been running at, the entrance is then sealed off by some tumbling rocks that you're not quite sure how they got there in the first place ...  Now everything has gone dark, the cave reeks of iron and for those of you without dark vision you're struggling to get a sense of direction in here. The is however, the soft glow of a green light coming from around the corner.  In the distance you hear a peculiar warping sound, followed by a familiar voice - cue thatcher's one liner or something:
 
 **THATCHER:** "Hi! I'm Thatcher, rat catcher and cat snatcher! I snatch the cats who catch the rat cuz rats make for tasty snacks!"
+
+
+---
+# Crossing the Bridge to Necropolis
+### Hot Exit
+The gate slams shut behind you with a heavy clank, and you can hear yelling and clamouring of guards. Before you is a river running deep and green, a simple wooden bridge shows your path to freedom as a wide valley of buildings, all different sizes and shapes, bathed in golden light lay before you. 
+
+You don't have time to enjoy the sight however as arrows begin to fly
+		*DC 12 dex save and take 3d10 piercing damage on a failed save, or half as much damage on a successful one.*
+
+You start running - the yelling getting further and further away, and the hale of arrows stopping as you cross the the other side of the bridge.
+
+You hear a clank of the gate rising again
+**Player Action:**
+> Do you look back? You see Firestar holding the gate above his head, dropping it back down behind him the a thud.
+
+Leave of here for chase sequence next session?
+
+### Stealth Exit
+Before you is a river running deep and green, a simple wooden bridge shows your path to freedom as a wide valley of buildings, all different sizes and shapes, bathed in golden light lay before you. Through the whispering current of the water you can hear laughter and music in the distance. 
