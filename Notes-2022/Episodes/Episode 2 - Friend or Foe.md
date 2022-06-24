@@ -292,7 +292,13 @@ You hear a clank of the gate rising again
 **Player Action:**
 > Do you look back? You see Firestar holding the gate above his head, dropping it back down behind him the a thud.
 
-Leave of here for chase sequence next session?
+> Leave off here for chase sequence next session?
+
+As you enter the weaving streets, Jo, you notice from the corner of your eye a shadowy figure gesturing towards a rundown tavern on the edge of town. It's eyes beckon out to you and you're overcome with a sense of comfort and warmth. The tavern it's gesturing to is not too far away though you're not quite sure if the others have noticed your new friend or not.
+
+Behind you Firestar's heavy footsteps are fast approaching, echoing on the wooden bridge. 
 
 ### Stealth Exit
 Before you is a river running deep and green, a simple wooden bridge shows your path to freedom as a wide valley of buildings, all different sizes and shapes, bathed in golden light lay before you. Through the whispering current of the water you can hear laughter and music in the distance. 
+
+As you enter the weaving streets, Jo, you notice from the corner of your eye a shadowy figure gesturing towards a rundown tavern on the edge of town. It's eyes beckon out to you and you're overcome with a sense of comfort and warmth. The tavern it's gesturing to is not too far away though you're not quite sure if the others have noticed your new friend or not.
