@@ -97,7 +97,7 @@ As you journey onwards through the city you do take a moment to appreciate the s
 ```PLAY COTTON CLUB```
 The Saxabone Bar is a rather lively place for something located in the middle of Necropolis. The music here is accompanied by the charming voices of a couple of singers up on stage who seem to be entertaining a small crowd of drunken guests as they stumble about on the dance floor. All around the ground floor are numerous game tables where dice, cards and coins seem to be flung about with little hesitation. 
 
-You hear the jeers of victory and the cries of loss echo throughout the venue. At one of the tables you see a gentleman with an alligator head hollering drunkenly at one of the skeleton waiters for more alcohol. Opposite him at another table, you watch a group of players chatter away with two skeletons in sunglasses. 
+You hear the jeers of victory and the cries of loss echo throughout the venue. At one of the tables you see a gentleman with an alligator head hollering drunkenly at one of the skeleton waiters for more alcohol. Opposite him at another table, you watch a group of players chatter away with two skeletons, one in a party hat and another with what you're quite sure are cat ears ...  
 
 Tucked away in a corner is a guarded staircase. You assume beyond this point is where the Lady of the bar lies. There are two skeletons here guarding the doorway and they seem to be turning away anyone that walks up to them. 
 
