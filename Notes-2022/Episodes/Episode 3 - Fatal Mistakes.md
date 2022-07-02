@@ -99,7 +99,20 @@ The Saxabone Bar is a rather lively place for something located in the middle of
 
 You hear the jeers of victory and the cries of loss echo throughout the venue. At one of the tables you see a gentleman with an alligator head hollering drunkenly at one of the skeleton waiters for more alcohol. Opposite him at another table, you watch a group of players chatter away with two skeletons in sunglasses. 
 
-Tucked away in a corner is a guarded staircase. You assume beyond this point is where the Lady of the bar lies. There are two skeletons here guarding the doorway and seem to be turning away anyone that walks up to them. 
+Tucked away in a corner is a guarded staircase. You assume beyond this point is where the Lady of the bar lies. There are two skeletons here guarding the doorway and they seem to be turning away anyone that walks up to them. 
+
+**PLAYER ACTION:**
+>If they attempt to interact with the guards to go upstairs they'll just get turned away without another word.
+>
+>Perhaps they can ask around and see how one can get past the barrier? 
+>Speak to Florida Man - Mr. Florida who'll tell them that only by winning impressive amounts of money on the game floor can you get VIP access to speak with the Lady.
+>
+>If they end up playing like shite then Florida man will thank them for their company and assist them in causing enough chaos so that they can sneak past the guards up the stairs.
+
+**For when they need that distraction after playing like shit:**
+Florida man will sigh to himself and put his glass down, thanking all of you for your company this evening despite your terrible gambling skills. He'll then glance over to the staircase and its guards before turning back to wink at all of you. You all then watch as Florida man picks up one of the chairs and then smashes it atop the head of one of the skeleton dealers, who is scarily completely un-phased by the impact it seems. The guards stood in the corners of the venue all rush over to apprehend Mr. Florida has he begins his rampage about the venue. Glasses of gin go flying across the room as folks scramble to loot the coins that get tossed into the air. 
+
+The path to the lady now sits unguarded as all of the guards are a little preoccupied with your new found friend's interesting attempt at a distraction.
 
 **The Devil's Dice Game**
 The devil's dice is a game of luck and the minimum bet required is 10 silver pieces 
