@@ -178,14 +178,42 @@ She leans in to take another swift inhale from the smoking pipe but as soon as s
 
 She pauses, looking away for a second and exhaling a heavy breath. 
 
-" and a good friend .. too bad Death had other plans for him ..."
+**The LADY:** " and a good friend .. too bad Death had other plans for him ..."
 
-She leans forward
-
-**The LADY:** "I can sneak you into the Garden via the shipment today but what happens beyond that is beyond me I'm afraid ... will that be alright? We usually drop the cart of silk off by the garden and it gets picked up by one of the guards. " 
+"I can sneak you into the Garden via the shipment today but what happens beyond that is beyond me I'm afraid ... will that be alright? We usually drop the cart of silk off by the garden and it gets picked up by one of the guards. I'll arrange for my delivery guy to take care of that guard ... " 
 
 **PLAYER ACTION:**
 > Do you agree to this offer?
 
 
+## The Garden
+Once you're all piled up underneath the bags full of silk your journey continues on towards the Garden. The ride is a mildly bumpy one as the Lady did warn the driver to be extra careful with this shipment. It takes about an hour or so of being jostled about before the cart comes to a halt. Then there are three taps by the side followed by absolute silence. 
 
+**PLAYER ACTION:**
+>Do any of you peek out beyond the bags of goods?
+
+Looking out you see a magnificently lush, green garden with an assortment of flora growing from every corner. There is a big metallic gate up ahead. Peering out a little more you see can't seem to see anyone else. You notice on the floor the remnants of a teleportation spell, it seems the driver has dropped the shipment off and headed back. You assume he also dealt with the guard as there's a tiny big of ash by the teleportation circle. Thus, leaving just the four of you plus Mok and this cart of silk. 
+
+**PLAYER ACTION:**
+> Do you get out and checkout the gate or stay still?
+
+The gate towers over all of you in all its large, metallic glory. There seems to be a tiny bit of wording engraved onto the stone wall it's connected to and it reads ...
+
+"The key is found within you, use this key to paint me red, be aware of what you spurn, for what you give shall be returned".
+
+**PLAYER ACTION:**
+> The party must use blood and smear it on the wall (where they get it from is up to them), and a duplicate of what the blood came from emerges out of the wall. The party must fight and defeat the duplicate to unlock the door.
+
+## The Weighing ...
+As the doors crack open out comes a familiar figure, it's the ferryman except this time they're holding a scale. 
+
+**FERRYMAN:** "Only those of pure intent and soul can set foot beyond this zone. To enter the Crown step forward my brave friend and we'll determine if you are what you think you are. The scale calls for just one."
+
+**PLAYER ACTION:**
+> Let them determine who it'll be ...
+
+(Player name here) as you walk up to the Ferryman, he will ask you to close your eyes and then reopen them. Once you reopen, them you feel yourself falling through a sparkling galaxy only to get caught in the giant palm of the ferryman who looms over you like a giant. He gently places you onto one end of the scale. Looking over to the other side you see a bright glowing light.
+
+For the rest of you, you watch as (Player name here) gets warped into a tiny marble ball that looks like a self contained galaxy as the Ferryman gestures dramatically. They then pick up the marble and place it onto the scale. He doesn't appear to place anything else on the other scale plate. 
+
+You all look on with anticipation as the scale plates begin to rock up and down once the marble has been placed and that's where we'll end it.
