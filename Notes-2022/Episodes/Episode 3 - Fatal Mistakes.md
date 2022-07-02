@@ -36,7 +36,7 @@ The seagull nods and flies past the rest of you and out through the backdoor. No
 
 **Cue for Mallory and Gunner to introduce themselves to the party and begin the whole fixing up process**
 
-As each of you gets the medical attention that you so desperately need after the aftermath of the watcher's camp chaos, you're all able to take a much quicker than normal long rest. Despite her chaotic appearance, she's definitely the finest medical processional you've ever met. 
+As each of you gets the medical attention that you so desperately need after the aftermath of the watcher's camp chaos, you're all able to take a much quicker than normal long rest. Despite her chaotic appearance, she's definitely the finest medical professional you've ever met. 
 
 ---
 Once all of you are patched up, Gunner beckons for you to come sit by the bar as he pours each of you a drink. Jo, you sense the trinket hanging around your neck begin to rock side to side gently and with a quick puff of green smoke you watch as Mok frees himself from the confines of the trinket and sits himself right next to the rest of yall. 
@@ -83,11 +83,11 @@ Once all of you are satisfied that you've cracked the code, Gunner will draw out
 > Do any of you look back? 
 > For those that do: You see that shadow with the glowing eyes stood beside Gunner and when you blink again it is gone ... 
 
-As you journey onwards through the city you do take a moment to appreciate the sheer beauty of this city of the dead. Its allure is matched by the backdrop of everclear skies and the rich, luscious farmland fields. Gunner's map takes you down through some winding alleyways and finally you are faced with a door down a quiet, dimly lit alley. The soft soothing sound of jazz seems to sneak past the barrier and flow out into the corridor. 
+As you journey onwards through the city you do take a moment to appreciate the sheer beauty of this city of the dead. Its allure is matched by the backdrop of everclear skies and the rich, luscious farmland fields. Gunner's map takes you down through some winding alleyways and finally you are faced with a door down a quiet, dimly lit alley. The soft soothing sound of jazz seems to permeate past the barrier and flow out into the corridor. 
 
 **PLAYER ACTION:**
 >What do you do?
->Upon a successful knock -- There is a click and the door creaks open and the jazz music gets a little louder, stood infront of you is a skeleton in a luxurious velvet maroon suit. It looks each of you up and down, nods and gestures for you to follow it in. 
+>Upon a successful knock -- There is a click and the door creaks open and the jazz music gets a little louder, stood in front of you is a skeleton in a luxurious velvet maroon suit. It looks each of you up and down, nods and gestures for you to follow it in. 
 
 ```STOP MEDIEVAL TOWN```
 
@@ -168,7 +168,7 @@ She leans back into her chair, reaching for her smoking pipe. She looks over to 
 
 **PLAYER ACTION:**
 >Do you help her light it?
->If not she chuckles to herself and snaps her fingers, immediately you see a soft glow emanate from the base of the pipe and soft puffs of smoke start to appear. 
+>If not she chuckles to herself and snaps her fingers, immediately you see a soft glow emanate from the base of the pipe and puffs of smoke start to appear. 
 
 **The LADY:** "So what can I help you lovely folks with? We're all out of silk at the moment I'm afraid... the most recent shipment is heading off to Death's garden later this evening ... so if that's what you're here for I'm afraid you'll have to wait a few days."
 
@@ -228,4 +228,8 @@ As the doors crack open out comes a familiar figure, it's the ferryman except th
 
 For the rest of you, you watch as (Player name here) gets warped into a tiny marble ball that looks like a self contained galaxy as the Ferryman gestures dramatically. They then pick up the marble and place it onto the scale. He doesn't appear to place anything else on the other scale plate. 
 
-You all look on with anticipation as the scale plates begin to rock up and down once the marble has been placed and that's where we'll end it for today's session.
+You all look on with anticipation as the scale plates begin to rock up and down once the marble has been placed. It finally reaches an equilibrium point and you all breathe out an exasperated sigh of relief -- perhaps too soon for suddenly the scale plate with the marble begin's to tip downwards, violently disrupting the symmetry.
+
+In the eyes of (Player name here) you notice a familiar figure clinging on to the edge of your plate, attempting to drag it down with its weight -- the shadow has returned and it's trying to tell you something. Yet every time it attempts to speak the sounds come out like static screeches of agony. As you stare into its hypnotic eyes, the fuzziness of the shadow's figure begins to form a face and you begin to question whether that is who you think it is. 
+
+Now stuck frozen in a shock-fuelled trance, you're blind to the speed at which your side of the scale continues to descend far below the equilibrium you had just achieved ... much to the horror of all your friends who are unaware of your plunge into the darkness of the void... and that's where we'll end it for today's session.
