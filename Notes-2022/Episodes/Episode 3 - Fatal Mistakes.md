@@ -184,9 +184,14 @@ She pauses, looking away for a second and exhaling a heavy breath.
 
 **PLAYER ACTION:**
 > Do you agree to this offer?
+> Once players agree we head on to the next bit -- give them the opportunity to sorta ask some questions
 
+```STOP COTTON CLUB```
+
+----
 
 ## The Garden
+```PLAY SHAMANS HOLLOW```
 Once you're all piled up underneath the bags full of silk your journey continues on towards the Garden. The ride is a mildly bumpy one as the Lady did warn the driver to be extra careful with this shipment. It takes about an hour or so of being jostled about before the cart comes to a halt. Then there are three taps by the side followed by absolute silence. 
 
 **PLAYER ACTION:**
@@ -204,7 +209,12 @@ The gate towers over all of you in all its large, metallic glory. There seems to
 **PLAYER ACTION:**
 > The party must use blood and smear it on the wall (where they get it from is up to them), and a duplicate of what the blood came from emerges out of the wall. The party must fight and defeat the duplicate to unlock the door.
 
+As you smear your bloodied hand across this doorway you watch as your blood marks across the door begin to push outwards, away from the door, splattering onto the ground and a figure starts to take shape. Within a mere few seconds you are all now faced with a clone of (Player name here) -- please roll initiative
+```STOP SHAMANS HOLLOW```
+```PLAY The STEPPES until battle over```
+
 ## The Weighing ...
+```PLAY HIDDEN VALLEY```
 As the doors crack open out comes a familiar figure, it's the ferryman except this time they're holding a scale. 
 
 **FERRYMAN:** "Only those of pure intent and soul can set foot beyond this zone. To enter the Crown step forward my brave friend and we'll determine if you are what you think you are. The scale calls for just one."
@@ -212,8 +222,10 @@ As the doors crack open out comes a familiar figure, it's the ferryman except th
 **PLAYER ACTION:**
 > Let them determine who it'll be ...
 
-(Player name here) as you walk up to the Ferryman, he will ask you to close your eyes and then reopen them. Once you reopen, them you feel yourself falling through a sparkling galaxy only to get caught in the giant palm of the ferryman who looms over you like a giant. He gently places you onto one end of the scale. Looking over to the other side you see a bright glowing light.
+```STOP HIDDEN VALLEY```
+```PLAY GATEWAY TO HELL```
+(Player name here) as you walk up to the Ferryman, he will ask you to close your eyes and to only reopen them after a single breath passes. Once you reopen, them you feel yourself falling through a sparkling galaxy only to get caught in the giant palm of the ferryman who looms over you like a giant. He gently places you onto one end of the scale. Looking over to the other side you see a bright glowing light.
 
 For the rest of you, you watch as (Player name here) gets warped into a tiny marble ball that looks like a self contained galaxy as the Ferryman gestures dramatically. They then pick up the marble and place it onto the scale. He doesn't appear to place anything else on the other scale plate. 
 
-You all look on with anticipation as the scale plates begin to rock up and down once the marble has been placed and that's where we'll end it.
+You all look on with anticipation as the scale plates begin to rock up and down once the marble has been placed and that's where we'll end it for today's session.
