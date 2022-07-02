@@ -1,0 +1,1 @@
+stuff for next planning: something is pulling the thingy down -- it's the shadow -- trying to stop them from letting mok into the Crown.

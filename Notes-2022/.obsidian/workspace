@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Episodes/Episode 3 - Fatal Mistakes.md",
+            "file": "Episodes/Episode 4 - The Resurrection.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/Episode 3 - Fatal Mistakes.md",
+                "file": "Episodes/Episode 4 - The Resurrection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "c2cc1725eab57cb2",
   "lastOpenFiles": [
-    "Episodes/Episode 3 - Fatal Mistakes.md",
     "Episodes/Episode 4 - The Resurrection.md",
+    "Episodes/Episode 3 - Fatal Mistakes.md",
     "Episodes/Episode 2 - Friend or Foe.md",
     "Episodes/Episode 1 - Unfamiliar Territory.md",
     "Players/Jo Beidan - Diren.md",
