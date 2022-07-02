@@ -7,6 +7,7 @@ Now in the dead of the night, they run scattered through the streets of the city
 ## Hiding from Firestar
 *GM Note: Gunner is in the front of the tavern cleaning, Mallory is in the basement and clay is snoozing in the rafters*
 
+```PLAY ARTIST'S GARRET```
 Due to the sheer speed at which all of you have been fleeing, each of you, one by one, come barrelling in to the tavern before collapsing onto the hard wood floors. It is quiet except for the noise of your heavy breathing for a moment as you get your bearings. As you glance upwards to get a feel for the room you all lock eyes with this towering figure before you. He appears to be a stocky, older man with a rough beard. He looks over at each of you before gesturing behind him -- pointing towards the back of the bar. 
 
 **PLAYER ACTION:**
@@ -71,8 +72,11 @@ Mallory slams her palm down on the table twice followed by two knocks.
 **PLAYER ACTION:**
 > Let them figure out the puzzle itself -- the solution is one palm slam, one knock, one palm slam and another knock
 
+```STOP ARTIST'S GARRET```
+
 -----
 ## Journey through Necropolis
+```PLAY MEDIEVAL TOWN```
 Once all of you are satisfied that you've cracked the code, Gunner will draw out a map of the city for you to make navigating to the Saxabone a lot easier. As you're sent off back on your journey, Mallory, Gunner and Clay both watch from the tavern doorway. 
 
 **PLAYER ACTION:**
@@ -85,9 +89,12 @@ As you journey onwards through the city you do take a moment to appreciate the s
 >What do you do?
 >Upon a successful knock -- There is a click and the door creaks open and the jazz music gets a little louder, stood infront of you is a skeleton in a luxurious velvet maroon suit. It looks each of you up and down, nods and gestures for you to follow it in. 
 
+```STOP MEDIEVAL TOWN```
+
 ---
 
 ## The Saxabone Bar
+```PLAY 1920's Speakeasy```
 The Saxabone Bar is a rather lively place for something located in the middle of Necropolis. The music here is accompanied by the charming voices of a couple of singers up on stage who seem to be entertaining a small crowd of drunken guests as they stumble about on the dance floor. All around the ground floor are numerous game tables where dice, cards and coins seem to be flung about with little hesitation. You hear the jeers of victory and the cries of loss echo throughout the venue.
 
 Tucked away in a corner is a guarded staircase. You assume beyond this point is where the Lady of the bar lies.
