@@ -1,19 +1,19 @@
 # RECAP
 Last week our adventurers managed to con their way into the Watcher's Camp. We watched them flex their battle skills in front of the mighty Lieutenant Firestar before heading off on a tour of the site. Unfortunately, unbeknown to them the drafted have a rather keen sense of smell that no amount of "anti-life" perfume could begin to mask. After being tossed into a jail and receiving a few flashbacks of the past our brave group met with a dead god. Sealing a deal to restore Thatcher to his former glory with a single pinky promise they were freed from their cell and forced into a battle of wits and strength to reach the bridge to Necropolis.
 
-Now in the dead of the night, they run scattered through the streets of the city, fleeing the thundering footsteps of Firestar who is hot on their trail. Will the shadow lurking in the corners of their eyes finally reveal itself to be an ally? or will the decision to run into this empty abandoned tavern prove to be fatal?
+Now in the dead of the night, they run scattered through the streets of the city, fleeing the thundering footsteps of Firestar who is hot on their trail. Will the shadow lurking in the corners of their eyes finally reveal itself to be an ally? or will the decision to run into this shabby little tavern prove to be fatal?
 
 # Gunners Tavern
 ## Hiding from Firestar
 *GM Note: Gunner is in the back of the tavern cleaning, Mallory is in the basement and clay is snoozing in the rafters*
 
-Each of you, one by one, collapse into the tavern. Its quiet except for the noise of your heavy breathing for a moment as you get you bearings. The tavern is small and empty, clearly not a popular breakfast spot, but cosy nonetheless. You don't have long to take it in though, fully aware of Firestars relentless approach.
+Due to the sheer speed at which all of you have been fleeing, each of you, one by one, come barelling in to the tavern before collapsing onto the hard wood floors. It is quiet except for the noise of your heavy breathing for a moment as you get your bearings. The tavern is small and empty, clearly not a popular breakfast spot, but cosy nonetheless. You don't have long to take it in though, fully aware of Firestars relentless approach.
 
 **Give them a minute in real time to figure out what to do - set a actual timer?
 
 **PLAYER ACTION:**
 >Are you looking to hide? Where?
->	Make a stealth checks
+>	Make a stealth check
 
 *If they are noisy hiding:*
 
