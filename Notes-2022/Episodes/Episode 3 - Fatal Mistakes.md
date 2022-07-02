@@ -94,10 +94,12 @@ As you journey onwards through the city you do take a moment to appreciate the s
 ---
 
 ## The Saxabone Bar
-```PLAY 1920's Speakeasy```
-The Saxabone Bar is a rather lively place for something located in the middle of Necropolis. The music here is accompanied by the charming voices of a couple of singers up on stage who seem to be entertaining a small crowd of drunken guests as they stumble about on the dance floor. All around the ground floor are numerous game tables where dice, cards and coins seem to be flung about with little hesitation. You hear the jeers of victory and the cries of loss echo throughout the venue.
+```PLAY COTTON CLUB```
+The Saxabone Bar is a rather lively place for something located in the middle of Necropolis. The music here is accompanied by the charming voices of a couple of singers up on stage who seem to be entertaining a small crowd of drunken guests as they stumble about on the dance floor. All around the ground floor are numerous game tables where dice, cards and coins seem to be flung about with little hesitation. 
 
-Tucked away in a corner is a guarded staircase. You assume beyond this point is where the Lady of the bar lies.
+You hear the jeers of victory and the cries of loss echo throughout the venue. At one of the tables you see a gentleman with an alligator head hollering drunkenly at one of the skeleton waiters for more alcohol. Opposite him at another table, you watch a group of players chatter away with two skeletons in sunglasses. 
+
+Tucked away in a corner is a guarded staircase. You assume beyond this point is where the Lady of the bar lies. There are two skeletons here guarding the doorway and seem to be turning away anyone that walks up to them. 
 
 **The Devil's Dice Game**
 The devil's dice is a game of luck and the minimum bet required is 10 silver pieces 
