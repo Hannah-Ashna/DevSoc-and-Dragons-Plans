@@ -197,7 +197,7 @@ Once you're all piled up underneath the bags full of silk your journey continues
 **PLAYER ACTION:**
 >Do any of you peek out beyond the bags of goods?
 
-Looking out you see a magnificently lush, green garden with an assortment of flora growing from every corner. There is a big metallic gate up ahead. Peering out a little more you see can't seem to see anyone else. You notice on the floor the remnants of a teleportation spell, it seems the driver has dropped the shipment off and headed back. You assume he also dealt with the guard as there's a tiny big of ash by the teleportation circle. Thus, leaving just the four of you plus Mok and this cart of silk. 
+Looking out you see a magnificently lush, green garden with an assortment of flora growing from every corner. There is a big metallic gate up ahead. Peering out a little more you see can't seem to see anyone else. You notice on the floor the remnants of a teleportation spell, it seems the driver has dropped the shipment off and headed back. You assume he also dealt with the guard as there's a tiny bit of ash by the teleportation circle. Thus, leaving just the four of you plus Mok and this cart of silk. 
 
 **PLAYER ACTION:**
 > Do you get out and checkout the gate or stay still?
