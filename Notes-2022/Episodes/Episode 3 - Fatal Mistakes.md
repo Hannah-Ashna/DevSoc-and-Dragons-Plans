@@ -149,3 +149,43 @@ The cursed pig forces you to test your limits; how far are you willing to go? Th
 - If the player rolls any other number, it is added to their turn total and the player's turn continues. 
 - If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn. 
 - The first player to score 50 or more points wins.
+
+----
+
+## The Lady of Saxabone
+Sneaking your way quietly up these creaky stairs you all finally reach the top floor. It's a rather dark room which looks to be the office of the Lady's operations. It's currently empty, or so you think ... before you hear the quiet scattering come from behind you and then above you. 
+
+**PLAYER ACTION:**
+> What are you doing?
+
+In front of you stands a rather intimidating arachnid-like figure. The hairs at the back of your necks stand at attention as you feel the gaze of several eyes lock onto each you. She calls out to all of you as she seats herself down on her arm chair, gesturing at the seats before you. Her voice is alluring ... 
+
+**The LADY:** "You really are a cunning group of adventurers ... great choice of distraction .. Mr. Florida loves a good bar fight"
+
+She leans back into her chair, reaching for her smoking pipe. She looks over to you Faye, and smiles softly ..
+
+**The LADY:** "Would you be so kind?" 
+
+**PLAYER ACTION:**
+>Do you help her light it?
+>If not she chuckles to herself and snaps her fingers, immediately you see a soft glow emanate from the base of the pipe and soft puffs of smoke start to appear. 
+
+**The LADY:** "So what can I help you lovely folks with? We're all out of silk at the moment I'm afraid... the most recent shipment is heading off to Death's garden later this evening ... so if that's what you're here for I'm afraid you'll have to wait a few days."
+
+She leans in to take another swift inhale from the smoking pipe but as soon as she hears you mention Mok's name she freezes. Her eyes slowly turning to look at all of you and she gently puts the pipe down. 
+
+**The LADY:** "Mok sent you? Hah ... of course he did ... I'm surprised he's still alive all by his lonesome on that little island out there. He used to be one of the best gamblers out here I tell yah!"
+
+She pauses, looking away for a second and exhaling a heavy breath. 
+
+" and a good friend .. too bad Death had other plans for him ..."
+
+She leans forward
+
+**The LADY:** "I can sneak you into the Garden via the shipment today but what happens beyond that is beyond me I'm afraid ... will that be alright? We usually drop the cart of silk off by the garden and it gets picked up by one of the guards. " 
+
+**PLAYER ACTION:**
+> Do you agree to this offer?
+
+
+
