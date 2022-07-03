@@ -174,11 +174,11 @@ She leans back into her chair, reaching for her smoking pipe. She looks over to 
 
 She leans in to take another swift inhale from the smoking pipe but as soon as she hears you mention Mok's name she freezes. Her eyes slowly turning to look at all of you and she gently puts the pipe down. 
 
-**The LADY:** "Mok sent you? Hah ... of course he did ... I'm surprised he's still alive all by his lonesome on that little island out there. He used to be one of the best gamblers out here I tell yah!"
+**The LADY:** "Mok sent you? Hah ... of course he did ... I'm surprised he's still around. He used to be one of the best gamblers out here I tell yah!"
 
 She pauses, looking away for a second and exhaling a heavy breath. 
 
-**The LADY:** " and a good friend .. too bad Death had other plans for him ..."
+**The LADY:** " and a good friend ... or something like that ..."
 
 "I can sneak you into the Garden via the shipment today but what happens beyond that is beyond me I'm afraid ... will that be alright? We usually drop the cart of silk off by the garden and it gets picked up by one of the guards. I'll arrange for my delivery guy to take care of that guard ... " 
 
@@ -230,6 +230,12 @@ For the rest of you, you watch as (Player name here) gets warped into a tiny mar
 
 You all look on with anticipation as the scale plates begin to rock up and down once the marble has been placed. It finally reaches an equilibrium point and you all breathe out an exasperated sigh of relief -- perhaps too soon for suddenly the scale plate with the marble begin's to tip downwards, violently disrupting the symmetry.
 
-In the eyes of (Player name here) you notice a familiar figure clinging on to the edge of your plate, attempting to drag it down with its weight -- the shadow has returned and it's trying to tell you something. Yet every time it attempts to speak the sounds come out like static screeches of agony. As you stare into its hypnotic eyes, the fuzziness of the shadow's figure begins to form a face and you begin to question whether that is who you think it is. 
+In the eyes of (Player name here) you notice a familiar figure clinging on to the edge of your plate, attempting to drag it down with its weight -- the shadow has returned and it's trying to tell you something. Yet every time it attempts to speak the sounds come out like static screeches of agony. 
 
-Now stuck frozen in a shock-fuelled trance, you're blind to the speed at which your side of the scale continues to descend far below the equilibrium you had just achieved ... much to the horror of all your friends who are unaware of your plunge into the darkness of the void... and that's where we'll end it for today's session.
+Now stuck frozen in a shock-fuelled trance, you're blind to the speed at which your side of the scale continues to descend far below the equilibrium you had just achieved ... much to the horror of all your friends who are unaware of your plunge into the darkness of the void...
+
+(Player Name), for a moment the darkness parts like a veil as you stare into its hypnotic eyes and you see a vision of a horned silhouette, crumpling to the floor as they are hit with a blast of searing emerald flames. 
+
+Back on the plate, the figure starts to take shape, becoming a silhouette that is now shockingly familiar. But before it has chance to become clear, the Ferryman's massive hand sweeps in front of you, sending the shadow hurtling into the darkness. 
+
+The plates rise and fall wildly, and with your fate hanging in the balance, that's where we'll end it for today's session.
