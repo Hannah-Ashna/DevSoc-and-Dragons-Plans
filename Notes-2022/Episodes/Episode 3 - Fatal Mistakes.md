@@ -23,6 +23,12 @@ The tavern is small and empty, clearly not a popular breakfast spot, but cosy no
 After what feels like a century, and also a moment, the door slams open and all of your hear Firestars heavy footsteps walking in. 
 
 **Gunner covers for them - might give firestar a chance to snoop / come close - but stop him
+
+
+**PLAYER ACTION:**
+> Do yall sneak a closer look at this old man?
+There is a brief pause -- a piercing silence shoots through the room, sneakily peering over the top you all notice embers occasionally billow out of this old man's mouth as he exhales heavily. His body is covered in scars from who knows what sort of battles with creatures.
+
 If the try to confront Firestar, clay and gunner will jump in to help so they have less of a chance of dying
 
 ----
