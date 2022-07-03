@@ -105,7 +105,7 @@ Tucked away in a corner is a guarded staircase. You assume beyond this point is 
 >If they attempt to interact with the guards to go upstairs they'll just get turned away without another word.
 >
 >Perhaps they can ask around and see how one can get past the barrier? 
->Speak to Florida Man - Mr. Florida who'll tell them that only by winning impressive amounts of money on the game floor can you get VIP access to speak with the Lady.
+>**Speak to Florida Man** - Mr. Florida who'll tell them that only by winning impressive amounts of money on the game floor can you get VIP access to speak with the Lady.
 >
 >If they end up playing like shite then Florida man will thank them for their company and assist them in causing enough chaos so that they can sneak past the guards up the stairs.
 
@@ -224,7 +224,7 @@ As the doors crack open out comes a familiar figure, it's the ferryman except th
 
 ```STOP HIDDEN VALLEY```
 ```PLAY GATEWAY TO HELL```
-(Player name here) as you walk up to the Ferryman, he will ask you to close your eyes and to only reopen them after a single breath passes. Once you reopen, them you feel yourself falling through a sparkling galaxy only to get caught in the giant palm of the ferryman who looms over you like a giant. He gently places you onto one end of the scale. Looking over to the other side you see a bright glowing light.
+(Player name here) as you walk up to the Ferryman, he will ask you to close your eyes and to only reopen them after a single breath passes. Once you reopen them you feel yourself falling through a sparkling galaxy only to get caught in the giant palm of the ferryman who looms over you like a giant. He gently places you onto one end of the scale. Looking over to the other side you see a bright glowing light.
 
 For the rest of you, you watch as (Player name here) gets warped into a tiny marble ball that looks like a self contained galaxy as the Ferryman gestures dramatically. They then pick up the marble and place it onto the scale. He doesn't appear to place anything else on the other scale plate. 
 
