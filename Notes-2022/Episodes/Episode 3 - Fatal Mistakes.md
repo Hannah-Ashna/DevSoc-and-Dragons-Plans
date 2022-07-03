@@ -135,7 +135,7 @@ Crazy luck is another gambling favourite that puts your luck to the test and wil
 - If you dont get 7 or a 12, you can add another 1D6 roll to the total once you double your bet; thus if your new total adds up to either a 7 or a 12 you win back your bet + 25 silver pieces and if it doesn't, then yah lose.
 
 **Roda Hantu**
-The ghost's wheel puts your knowledge of statistics to the test. The minimum bet required is 1 gold piece. 
+The ghost's wheel puts your knowledge of statistics to the test. The minimum bet required is 10 silver pieces. 
 - Players place their bets for the exact number that'll be rolled by the dealer (1D20). They then have the opportunity to place a wider guess of whether the value is odd or even 
 - Once the dealer rolls the dice, all bets are settled
 - If a player guesses the exact number correctly, they win triple the original amount they bet 
