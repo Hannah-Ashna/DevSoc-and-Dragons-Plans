@@ -4,6 +4,7 @@ Last week our adventurers befriended a peculiar bunch at the tavern that they be
 After a nerve wrecking battle the gang watches the gates to Death's home open only to then be stopped by the Ferryman who demands a righteous soul as an offering to the balance. We pick up where we left off now with Jo hanging on for dear life as Faye and Jeremy look on with horror. 
 
 # Resuming Balance
+```PLAY GATEWAY TO HELL```
 The wild swinging of the scales has you, Jo, scrambling to maintain your footing on your own plate. After watching your shadow friend get swatted into the abyss of nothingness you're quite sure you don't fancy a trip out there too, at least, anytime soon. 
 
 **PLAYER ACTION:**
@@ -14,6 +15,7 @@ The wild swinging of the scales has you, Jo, scrambling to maintain your footing
 As the plates settle, there is a loud ringing sound and the glistening light on the other plate begins to glow even brighter -- the brightness starts to burn a little bit, forcing you to shield your eyes from it. Then, there is silence, followed by the hyperventilating breaths of your companions as they stand, hovering over you nervously. Jo, you are now back in the garden -- laying flat on your back in the comfy grass, free of your marble form.
 
 Jeremy and Faye, both of you witness as those once unstable plates with the marble on it begin to equalise and within a split second the Ferryman and the scales disappear out of sight and the marble seems to have returned Jo to you. The gates into the Crown now lay wide open for you.
+```STOP GATEWAY TO HELL```
 
 ----
 # The Crown
