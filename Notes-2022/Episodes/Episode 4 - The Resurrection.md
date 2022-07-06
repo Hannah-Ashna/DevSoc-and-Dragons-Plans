@@ -31,10 +31,13 @@ As you all get nice and comfy, she'll look over at an empty seat before exclaimi
 **DEATH:** "Eh .. ah yes there was more of you right?"
 
 # Patro POV
-Patro, you awaken by the abrupt and unpleasant sensation of icy cold water being thrown at you. 
+Patro, you awaken with the abrupt and unpleasant sensation of icy cold water being thrown at you. As you pry your eyes open you find yourself bound with rope to a chair in a dimly lit room. Your vision is a little blurry and your head really ... really ... hurts .. the last thing you remember doing is sneaking through the city of Necropolis while fleeing from Firestar before something, or someone landed a pretty heavy blow to your cranium. Despite the foggy vision and dark room you're able to make out two figures in the distance as they have a muffled discussion amongst themselves.
 
+**THE LADY:** "Ah so you've managed to find the runaway? I'm sure you've got your orders from him so make sure you take care of this ... problem ... I've got preparations to make... the day of the resurrection is upon us ..." 
 
-She snaps her fingers and right beside you now sits a very confused Patro.
+Just as you're about to slowly regain your sight you watch as the talking figure turns to leave as the other moves in a little bit closer. You hear the agonizing screeching of an axe blade dragging across the concrete floor like nails to a chalk board as this malevolent being inches closer towards you. As you begin to pull and tug at your binds you realise it's futile.
+
+Closing your eyes to greet what will perhaps be your actual death you suddenly feel a gentle sea breeze grace your skin. Your hands are free and as you sneak a peek behind your eyelids you see your companions next to you, all a little bit confused for you see, Death had just snapped her fingers and now you've got a dazed Patro seated beside you.
 
 **DEATH:** "There was another but ... tsch .. they're somewhere I cannot reach unfortunately"
 
