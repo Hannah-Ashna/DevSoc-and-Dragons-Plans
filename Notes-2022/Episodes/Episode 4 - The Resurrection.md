@@ -135,15 +135,11 @@ Mok briefly sighs to himself
 **POTENTIAL WEIRD ENDING:** If Mok beats death and they fight mok and win - one of them is now death - the ferryman will try and claim the title - esp if it is jeremy and then help send them back home
 
 
-- F 2 - On deaths side against Mok
-	- I
-- F 3 - Mok beats death and becomes death
-	- big fight against Mok - who is now death
-
 # The Showdown - Death's Side
 If they fight mok from the start the Ferryman will jump in to help
 **POTENTIAL GOOD ENDING:** They beat Mok and Death sends them back
 
+Death, despite being restrained to the floor by shadowy tendrils immediately whistles and calls out "CERBERUS! ATTACK!" and the rest of you watch as out from the corner of the cottage comes bounding towards all of you that crusty little white dog you saw earlier ... except as it makes its way closer you look on with horror as its body begins to morph into a muscular, towering three headed beast. It's practically foaming at the mouth from excitement -- the earth quaking beneath its feet as it tramples across the beautifully laid out garden. It runs head first into Mok, knocking him off balance and pushing him away from the rest of you. 
 
 
 
@@ -153,6 +149,7 @@ If they fight mok from the start the Ferryman will jump in to help
 
 **DEATH ENDING:** She'll ask for each of you to to rest flat with your backs against the ground and to look up into the late afternoon sky. As the sound of the waves crashing up against the edge of the island echo through your minds you're simply transfixed by the movement of the clouds up above, unable to take your eyes away from it. You watch as the daylight quickly shifts into night and now you all are staring off into a sparkling galaxy as you feel your bodies now effortlessly begin to float in a starry abyss. You are no longer on the island for you seem to have entered some mystical new realm of nothingness. 
 
+----
 You watch as a giant hourglass that fizzles into existence, almost at its end is flipped over by a gargantuan hand. Your life has been restored and the memories of who you all once were return to you. You see yourselves being merry in the company of many at a local Snottingham tavern. Flashes of your journey out west show you battling with hordes of undead. Jeremy, you watch yourself uncover hundreds of scrolls full of necromantic spells as Faye reaches over to point out a location on a map. Jo and Patro stand in the back sharpening weapons as a horned figure walks up to the rest of you in the cave holding an assignment scroll. 
 
 In front of you now stands the imposing exterior of Mok's tavern and as you peer in from the outside through the windows you watch a brutal exchange involving magic and blade between yourselves and Mok only to have it end in the horrific deaths of each of you. Patro without a heart, Jo stabbed and hung up on a wall like some sort of ornament, Jeremy shuddering all by himself in a corner attempting to patch himself up as blood continues to spill from his side and Faye currently engulfed in bright green flames. The door to the tavern swings wide open, calling out to each of you to enter ..
