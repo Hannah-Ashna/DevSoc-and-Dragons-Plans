@@ -82,9 +82,10 @@ Mok will look over the rest of you sternly as he pushes the palms of his hands t
 A ball of bright green energy begins to form around him -- he gently pulls his hands apart and a fiery hot lighting bolt starts to take shape in his hands as he uses it to strike Death down once and for all.  
 
 ```STOP LUSH WORLD```
-```PLAY FIELD OF HEROES```
+
 
 # The Showdown - Mok's Side
+```PLAY TERROR IN THE WOODS```
 This is the fight against Death and Cerberus - which won't be super hard
 
 Death, despite being restrained to the floor by shadowy tendrils immediately whistles and calls out "CERBERUS! ATTACK!" and the rest of you watch as out from the corner of the cottage comes bounding towards all of you that crusty little white dog you saw earlier ... except as it makes its way closer you look on with horror as its body begins to morph into a muscular, towering three headed beast. It's practically foaming at the mouth from excitement -- the earth quaking beneath its feet as it tramples across the beautifully laid out garden. It runs head first into Mok, knocking him off balance and pushing him away from the rest of you. 
@@ -104,7 +105,12 @@ Just as you're about to make the final blow against Death Mok will scream out to
 
 
 ### Mok's Final Blow
-You all look on as Mok unleashes the fury of a thousand hell hounds as fiery bolts of lightning crash into Death like a never ending force and then there is silence. All that remains of Death is her glasses atop a pile of ash. Stood between yourselves and the now incinerated Death is a heaving Mok that hasn't turned to face you yet. He softly chuckles to himself before leaning back and straightening his shoulders. With one hand he fixes his stetson before whisking himself around to lock eyes with the rest of you. There is an unsettling glint of darkness in his eyes now 
+You all look on as Mok unleashes the fury of a thousand hell hounds as fiery bolts of lightning crash into Death like a never ending force and then there is silence. All that remains of Death is her glasses atop a pile of ash. 
+
+```STOP TERROR IN THE WOODS``` 
+(BREAK) 
+```PLAY MIND FLAYER CHAMBER``` 
+Stood between yourselves and the now incinerated Death is a heaving Mok that hasn't turned to face you yet. He softly chuckles to himself before leaning back and straightening his shoulders. With one hand he fixes his stetson before whisking himself around to lock eyes with the rest of you. There is an unsettling glint of darkness in his eyes now 
 
 **MOK:** "For a group of fools you've been the best set of puppets a Necromancer could ever ask for ... such a shame I'll have to dispose of you myself now. We can't have you ruining the resurrection day now can we?" 
 
@@ -114,7 +120,12 @@ You all look on as Mok unleashes the fury of a thousand hell hounds as fiery bol
 ### Someone's Final Blow
 **BETRAYAL ENDING:** One of them becomes death with mok alive - mok will try and trick them that he will sacrifice himself so they can return - then double cross
 
-As you watch Death's lifeless body come crashing down against the soft, grassy floor you watch as her body turns to ash, leaving just her glasses as the wind whisks the rest of her away. Your hands begin to shake a little as you feel the surging energy of some new found power begin to course through your veins. For a split second you watch as Mok's glare of anger at you is swapped out for a softer, more comforting look.
+As you watch Death's lifeless body come crashing down against the soft, grassy floor you watch as her body turns to ash, leaving just her glasses as the wind whisks the rest of her away. Your hands begin to shake a little as you feel the surging energy of some new found power begin to course through your veins. 
+
+```STOP TERROR IN THE WOODS``` 
+(BREAK) 
+```PLAY MIND FLAYER CHAMBER``` 
+For a split second you watch as Mok's glare of anger at you is swapped out for a softer, more comforting look.
 
 **MOK:** "ah! Great work (Player name here) -- it seems you are now Death, ruler of the underworld..." 
 
@@ -137,6 +148,7 @@ Mok briefly sighs to himself
 **POTENTIAL WEIRD ENDING:** If Mok beats death and they fight mok and win - one of them is now death - the ferryman will try and claim the title - esp if it is jeremy and then help send them back home
 
 # The Showdown - Death's Side
+```PLAY MIND FLAYER CHAMBER``` 
 If they fight mok from the start the Ferryman will jump in to help
 **POTENTIAL GOOD ENDING:** They beat Mok and Death sends them back
 
@@ -148,7 +160,11 @@ Death will attempt to shield the rest of you with herself before asking that the
 
 **Ferryman appears if Mok is struggling/too easy fight** - Out from the corner of your eye you watch as the air begins to warp to create a portal and you watch as the Ferryman steps out, wielding his obsidian glass staff. (Calls for Jeremy's death only when Jeremy attacks him - asks for immunity)
 
-# It's time to go home ...
+# It's time to go DEAD
+As the darkness begins to crawl in from your peripheral vision you feel your breath become laboured. You're exhausted and it's cold. The clashing of swords and spells seems to sound like it's miles away. The blood gushing out of your side feels all too familiar, you can't believe you let Mok get to you twice. As the light leaves your eyes and you're sent to a realm of darkness and absolute silence you hear a familiar voice call on out to you. It's Valikat ... the warlock of your party ... the shadow figure that's been desperately trying to reach out to all of you. They extend a hand out to you and gently rest you down amongst the others at a table within some sort of tavern. You're warm, cozy and most importantly, not bleeding out. Perhaps this whole Death thing isn't too bad.
+
+# It's time to go home ... (Return to the living)
+```STOP MIND FLAYER CHAMBER``` 
 ```PLAY SOLEMN VOW```
 **FERRYMAN ENDING:** The gentle lull of the water calms your anxious nerves as the Ferryman pushes the gondola away from the dock and off into the foggy ocean. He asks that each of you remain seated with your eyes closed, taking your time to pace your breathing as the ride home can be a turbulant one. Allowing the sound of waves to harmonically send you into a meditative state each of you finds yourselves floating through a sparkling galaxy. 
 
