@@ -25,11 +25,11 @@ The path into the Crown is a winding dirt road. From a glance it appears the inf
 **PLAYER ACTION:**
 > Do you go up to her? Sneak around?
 
-**DEATH:** "Aiyah! I'm so sorry ah my soldiers can be a little bit difficult -- all this fuss over me as if I don't spend most of my days here working on my garden ...  Ah okay okay you must be sooo tired right? Come come I bring some tea and games for us while we sit in the back garden"
+**DEATH:** "Aiyah! I'm so sorry ah my soldiers can be a little bit difficult -- all this fuss over me as if I don't spend most of my days here working on my garden ...  Ah okay okay you must be sooo tired right? Come come I bring some tea  that'll get you patched up and games for us while we sit in the back garden"
 
 She beckons all of you to follow her ... do you?
 At the back of the cottage is a magnificent courtyard complete with fountains, more plants and a cozy seating area. It appears drinks and games are ready.
-As you all get nice and comfy, she'll look over at an empty seat before exclaiming to herself
+As you all get nice and comfy a crusty white little dog will come hopping over with a stick in its mouth. The old lady will reach over and toss it across the garden and the dog gleefully chases after it. She'll look over at an empty seat before exclaiming to herself
 
 **DEATH:** "Eh .. ah yes there was more of you right?"
 
@@ -52,52 +52,108 @@ Closing your eyes to greet what will perhaps be your actual death you suddenly f
 **DEATH:** "There was another but ... tsch .. they're somewhere I cannot reach unfortunately"
 
 **PLAYER ACTION:**
-> Give them the opportunity to talk through some stuff with Death here 
+> Give them the opportunity to talk through some stuff with Death here
+> If they drink the tea they'll get the equivalent of a long rest
 > If they ask what the symbols mean or who gave it to them she'll say it wasn't her -- she's not in the habit of marking people
 > If they finally ask if she can get them back to their world she'll say:
 
 She gestures at your necklace Jo, 
 **DEATH:** "You've always had the answer with you since you've gotten here"
 
+**PLAYER ACTION:**
+> Give them some time to bicker amongst themselves or attempt to decode it
+> 
+> Eventually as you're all discussing this new found information amongst yourselves, the trinket hanging around Jo's neck begins to emanate dark green fumes of smoke as Mok makes an appearance behind Jo's chair. 
 
-# The Showdown
+**MOK:** "Stop with the lyin' all they want to do is go HOME and you're manipulating them just like you manipulated me!"
+
+**DEATH:** "Mokat Irai, you haven't changed a bit since we last spoke -- I warned you to stop playing God and yet here you are again"
+
+_Maybe more bickering here?_
+
+**MOK:** "Enough talking! We end this now ..."
+
+Mok will look over the rest of you sternly as he pushes the palms of his hands together. 
+
+**PLAYER ACTION:**
+> What are you doing? Do you help Mok or have your loyalties swayed? It's time to make a decision for your time is running out ...
+
+**ROLL FOR INITIATIVE**
+A ball of bright green energy begins to form around him -- he gently pulls his hands apart and a fiery hot lighting bolt starts to take shape in his hands as he uses it to strike Death down once and for all.  
+
+```STOP LUSH WORLD```
 ```PLAY FIELD OF HEROES```
 
+# The Showdown - Mok's Side
+This is the fight against Death and Cerberus - which won't be super hard
+
+As they fight they will regain their memories seeing MOKs green magic:
+* As you watch Mok make his ferocious attacks against Death, for a brief moment you are paralyzed with fear as your body seems to instinctively recognise something that you don't. Mok's never hurt you before but for some reason you're acutely aware of how painful those attacks he so flawlessly dishes out at Death can be ...
+* Mok's calculated violence seems to be leaving behind embers of his green flames floating about in the air. Some land on the grassy fields and briefly catch fire. 
+* Jeremy as you look on at the unfolding chaos there is a sinking feeling in your gut -- a de ja vu moment almost as if you're reliving some sort of nightmare.
+
+## Mok tries to get the final blow
+Just as you're about to make the final blow against Death Mok will scream out to you to ***STOP!*** 
+
+**PLAYER ACTION:**
+> Do you listen? or is the momentum of your movement far too powerful for you to hold it back now?
+> 
+> Mok will do everything they can to get the final blow against death
 
 
+### Mok's Final Blow
+You all look on as Mok unleashes the fury of a thousand hell hounds as fiery bolts of lightning crash into Death like a never ending force and then there is silence. All that remains of Death is her glasses atop a pile of ash. Stood between yourselves and the now incinerated Death is a heaving Mok that hasn't turned to face you yet. He softly chuckles to himself before leaning back and straightening his shoulders. With one hand he fixes his stetson before whisking himself around to lock eyes with the rest of you. There is an unsettling glint of darkness in his eyes now 
 
-Deaths Garden
-- Allow them to take a rest
-- Enter deaths garden - Mok warns them that death will try and play mind games and not to trust them
-Meeting Death
-- Meet death - she's outside trimming flowers - she invites them round the back for tea
-- death will be like "oh there were more of you" and bring back Patro (Maybe jump over to patro pov briefly as he's magic'd away from wherever), and then say something like "there was another but they're somewhere I cannot reach unfortunately"
-- When they ask her about how to return to life she tells them they've had the answer with them entire time and gesture to moks necklace
-- Mok will bamf out of the necklace and kick up a fuss saying she's trying to turn them against eachother and initiate a fight 
+**MOK:** "For a group of fools you've been the best set of puppets a Necromancer could ever ask for ... such a shame I'll have to dispose of you myself now. We can't have you ruining the resurrection day now can we?" 
 
-Fight
-- As they fight they will regain their memories seeing MOKs green magic
-- F 1 - On moks side against death
-	- Death and Cerberus - which won't be super hard
-	- Mok will do everything they can to get the final blow against death
+**PLAYER ACTION:**
+> Give them the chance to speak to Mok before engaging in all out warfare against Mok
+
+### Someone's Final Blow
+**BETRAYAL ENDING:** One of them becomes death with mok alive - mok will try and trick them that he will sacrifice himself so they can return - then double cross
+
+As you watch Death's lifeless body come crashing down against the soft, grassy floor you watch as her body turns to ash, leaving just her glasses as the wind whisks the rest of her away. Your hands begin to shake a little as you feel the surging energy of some new found power begin to course through your veins. For a split second you watch as Mok's glare of anger at you is swapped out for a softer, more comforting look.
+
+**MOK:** "ah! Great work (Player name here) -- it seems you are now Death, ruler of the underworld..." 
+
+Mok briefly sighs to himself
+
+**MOK:** "Shame really, as now you'll never get to return home ... but I can help if you'd like? I'm willing to sacrifice myself to take on the role so that you may return home!"
+
+**PLAYER ACTION:**
+> Do you accept his offer? Yes? No? 
+> 
+> Yes - Mok without missing a beat grabs onto your hands and begins to chant out loud to himself, you feel yourself grow weaker as his grip onto your hands tightens. For a second there you recognise this grip on you -- almost like you've been through this before ... As you collapse before him Mok now cackles to himself. 
+> 
+> **MOK:** "For a group of fools you've been the best set of puppets a Necromancer could ever ask for ... such a shame I'll have to dispose of you myself now. We can't have you ruining the resurrection day now can we?" 
+> 
+> No - Mok's warm smile fades as he braces himself to strike you down with a bolt of lightning just as he did with Death. He grins menacingly at you as he calls out ...
+> 
+> **MOK:** "I've worked too damn hard to get here for you imbeciles to ruin the day of the resurrection so I guess I'll just have to kill you MYSELF"
+
+**POTENTIAL BAD ENDING:** If they lose to mok / die again - they go to the place the shadow person is
+**POTENTIAL WEIRD ENDING:** If Mok beats death and they fight mok and win - one of them is now death - the ferryman will try and claim the title - esp if it is jeremy and then help send them back home
+
+
 - F 2 - On deaths side against Mok
-	- If they fight mok from the start the Ferryman will jump in to help
+	- I
 - F 3 - Mok beats death and becomes death
 	- big fight against Mok - who is now death
 
+# The Showdown - Death's Side
+If they fight mok from the start the Ferryman will jump in to help
+**POTENTIAL GOOD ENDING:** They beat Mok and Death sends them back
 
-Outcomes
-- Good Ending: They beat Mok and Death sends them back
-- Bad Ending: They lose to mok / die again - they go to the place the shadow person is
-- Betrayal Ending: One of them becomes death with mok alive - mok will try and trick them that he will sacrifice himself so they can return - then double cross
-- Weird Ending: Mok beats death and they fight mok and win - one of them is now death - the ferryman will try and claim the title - esp if it is jeremy
+
 
 
 # It's time to go home ...
 ```PLAY SOLEMN VOW```
-The gentle lull of the water calms your anxious nerves as the Ferryman pushes the gondola away from the dock and off into the foggy ocean. He asks that each of you remain seated with your eyes closed, taking your time to pace your breathing as the ride home can be a turbulant one. 
+**FERRYMAN ENDING:** The gentle lull of the water calms your anxious nerves as the Ferryman pushes the gondola away from the dock and off into the foggy ocean. He asks that each of you remain seated with your eyes closed, taking your time to pace your breathing as the ride home can be a turbulant one. Allowing the sound of waves to harmonically send you into a meditative state each of you finds yourselves floating through a sparkling galaxy. 
 
-Allowing the sound of waves to harmonically send you into a meditative state each of you finds yourselves floating through a sparkling galaxy. You watch as a giant hourglass, almost at its end is flipped over by a gargantuan hand. Your life has been restored and the memories of who you all once were return to you. You see yourselves being merry in the company of many at a local Snottingham tavern. Flashes of your journey out west show you battling with hordes of undead. Jeremy, you watch yourself uncover hundreds of scrolls full of necromantic spells as Faye reaches over to point out a location on a map. Jo and Patro stand in the back sharpening weapons as a horned figure walks up to the rest of you in the cave holding an assignment scroll. 
+**DEATH ENDING:** She'll ask for each of you to to rest flat with your backs against the ground and to look up into the late afternoon sky. As the sound of the waves crashing up against the edge of the island echo through your minds you're simply transfixed by the movement of the clouds up above, unable to take your eyes away from it. You watch as the daylight quickly shifts into night and now you all are staring off into a sparkling galaxy as you feel your bodies now effortlessly begin to float in a starry abyss. You are no longer on the island for you seem to have entered some mystical new realm of nothingness. 
+
+You watch as a giant hourglass that fizzles into existence, almost at its end is flipped over by a gargantuan hand. Your life has been restored and the memories of who you all once were return to you. You see yourselves being merry in the company of many at a local Snottingham tavern. Flashes of your journey out west show you battling with hordes of undead. Jeremy, you watch yourself uncover hundreds of scrolls full of necromantic spells as Faye reaches over to point out a location on a map. Jo and Patro stand in the back sharpening weapons as a horned figure walks up to the rest of you in the cave holding an assignment scroll. 
 
 In front of you now stands the imposing exterior of Mok's tavern and as you peer in from the outside through the windows you watch a brutal exchange involving magic and blade between yourselves and Mok only to have it end in the horrific deaths of each of you. Patro without a heart, Jo stabbed and hung up on a wall like some sort of ornament, Jeremy shuddering all by himself in a corner attempting to patch himself up as blood continues to spill from his side and Faye currently engulfed in bright green flames. The door to the tavern swings wide open, calling out to each of you to enter ..
 
