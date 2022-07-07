@@ -21,4 +21,9 @@ You haven't? Ah then there's been a mistake!"
 
 I can accompany you but I'll have to assume the form of some sort of trinket so I can avoid detection. If Death were to find out I've left purgatory I fear my soul would pay the ultimate price and cease to exist... Perhaps in joining you for this journey I too will be able to ask Death for forgiveness! and even redeem myself for my sin."
 
+### Statblock - Pre-becoming Death
+![[Pasted image 20220707175629.png]]
 
+### Statblock - Post Becoming Death
+![[Pasted image 20220707175659.png]]
+![[Pasted image 20220707175715.png]]

@@ -12,3 +12,12 @@ Yeah, you're definitely sure that's the ferryman ... except as you look at them 
 Makes an appearance in [[Episode 1 - Unfamiliar Territory#The Church - Waiting Room]]
 
 #### The Guard
+
+### Statblock
+*Instead of create spectre it can call upon its debtors to either:*
+
+**Exploitation of the Debtors.** As a bonus action, target a creature indebted to it that it can see within 30 feet of it. The angel deals 6 (1d10) necrotic damage to the target, and the angel gains temporary hit points equal to the damage dealt.
+
+**Command the Debtors.** Command an action (or inaction) of the debtor - this may be more than 1 word but the request may not last more than one action  
+
+![[Pasted image 20220707180550.png]]
