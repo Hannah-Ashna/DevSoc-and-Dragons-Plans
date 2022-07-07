@@ -87,6 +87,8 @@ A ball of bright green energy begins to form around him -- he gently pulls his h
 # The Showdown - Mok's Side
 This is the fight against Death and Cerberus - which won't be super hard
 
+Death, despite being restrained to the floor by shadowy tendrils immediately whistles and calls out "CERBERUS! ATTACK!" and the rest of you watch as out from the corner of the cottage comes bounding towards all of you that crusty little white dog you saw earlier ... except as it makes its way closer you look on with horror as its body begins to morph into a muscular, towering three headed beast. It's practically foaming at the mouth from excitement -- the earth quaking beneath its feet as it tramples across the beautifully laid out garden. It runs head first into Mok, knocking him off balance and pushing him away from the rest of you. 
+
 As they fight they will regain their memories seeing MOKs green magic:
 * As you watch Mok make his ferocious attacks against Death, for a brief moment you are paralyzed with fear as your body seems to instinctively recognise something that you don't. Mok's never hurt you before but for some reason you're acutely aware of how painful those attacks he so flawlessly dishes out at Death can be ...
 * Mok's calculated violence seems to be leaving behind embers of his green flames floating about in the air. Some land on the grassy fields and briefly catch fire. 
@@ -134,14 +136,17 @@ Mok briefly sighs to himself
 **POTENTIAL BAD ENDING:** If they lose to mok / die again - they go to the place the shadow person is
 **POTENTIAL WEIRD ENDING:** If Mok beats death and they fight mok and win - one of them is now death - the ferryman will try and claim the title - esp if it is jeremy and then help send them back home
 
-
 # The Showdown - Death's Side
 If they fight mok from the start the Ferryman will jump in to help
 **POTENTIAL GOOD ENDING:** They beat Mok and Death sends them back
 
-Death, despite being restrained to the floor by shadowy tendrils immediately whistles and calls out "CERBERUS! ATTACK!" and the rest of you watch as out from the corner of the cottage comes bounding towards all of you that crusty little white dog you saw earlier ... except as it makes its way closer you look on with horror as its body begins to morph into a muscular, towering three headed beast. It's practically foaming at the mouth from excitement -- the earth quaking beneath its feet as it tramples across the beautifully laid out garden. It runs head first into Mok, knocking him off balance and pushing him away from the rest of you. 
+Death will attempt to shield the rest of you with herself before asking that the rest of you keep your guard up. You watch as she closes her eyes, taking in a slow inhale of breath before her eyes snap wide open and a powerful force field rocks the earth you stand upon shoving Mok backwards a few feet away from you. The sheer force of the attack has Mok coughing up blood but he isn't so easily shaken as he steadies himself, cackling out loud ...
 
+**MOK:** "I have waited ... so very long for this ... and I won't let you or these fools be the ones who put me down"
 
+*Cue the battle stuff*
+
+**Ferryman appears if Mok is struggling/too easy fight** - Out from the corner of your eye you watch as the air begins to warp to create a portal and you watch as the Ferryman steps out, wielding his obsidian glass staff. (Calls for Jeremy's death only when Jeremy attacks him - asks for immunity)
 
 # It's time to go home ...
 ```PLAY SOLEMN VOW```
