@@ -161,7 +161,16 @@ Death will attempt to shield the rest of you with herself before asking that the
 **Ferryman appears if Mok is struggling/too easy fight** - Out from the corner of your eye you watch as the air begins to warp to create a portal and you watch as the Ferryman steps out, wielding his obsidian glass staff. (Calls for Jeremy's death only when Jeremy attacks him - asks for immunity)
 
 # It's time to go DEAD
-As the darkness begins to crawl in from your peripheral vision you feel your breath become laboured. You're exhausted and it's cold. The clashing of swords and spells seems to sound like it's miles away. The blood gushing out of your side feels all too familiar, you can't believe you let Mok get to you twice. As the light leaves your eyes and you're sent to a realm of darkness and absolute silence you hear a familiar voice call on out to you. It's Valikat ... the warlock of your party ... the shadow figure that's been desperately trying to reach out to all of you. They extend a hand out to you and gently rest you down amongst the others at a table within some sort of tavern. You're warm, cozy and most importantly, not bleeding out. Perhaps this whole Death thing isn't too bad.
+```STOP MIND FLAYER CHAMBER``` 
+```PLAY RAVENPUFF COMMON```
+As the darkness begins to crawl in from your peripheral vision you feel your breath become laboured. You're exhausted and it's cold. The clashing of swords and spells seems to sound like it's miles away. The blood gushing out of your side feels all too familiar, you can't believe you let Mok get to you twice. As the light leaves your eyes and you're sent to a realm of darkness and absolute silence you accept your fate. This is the end of your journey. Your impending death had finally caught up with you.
+
+And then, you hear a familiar voice call on out to you. It's Valikat ... the warlock of your party ... the horned shadow figure that's been desperately trying to reach out to all of you. They extend a hand out to you.
+
+**PLAYER ACTION:**
+> Do you accept?
+
+They hold on to you to help you walk forward with them and up ahead you watch as a tavern materializes out of nothingness. It is warm and cozy as the fireplace crackles away in the corner. There are a few others here, all warlocks you assume ... this must be where their souls go once their Patron comes to collect it. No wonder Valikat managed to escape the terrible fate of being a servant of Mok the puppet master. Valikat gently helps you sit yourself down at a table -- it's full of incoherent scribbles and notes, something to do with travelling between realms of the afterlife. As you lean back into your seat you can't help but think to yourself that perhaps this whole death thing isn't too bad. You're finally at peace even if it meant leaving behind the rest of your friends. 
 
 # It's time to go home ... (Return to the living)
 ```STOP MIND FLAYER CHAMBER``` 
