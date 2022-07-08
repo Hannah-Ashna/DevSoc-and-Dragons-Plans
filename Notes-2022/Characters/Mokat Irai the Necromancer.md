@@ -25,5 +25,6 @@ I can accompany you but I'll have to assume the form of some sort of trinket so 
 ![[Pasted image 20220707175629.png]]
 
 ### Statblock - Post Becoming Death
+See [[Death Herself]] statblock for legendary actions and additional spells
 ![[Pasted image 20220707175659.png]]
 ![[Pasted image 20220707175715.png]]
