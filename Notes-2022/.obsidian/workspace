@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Mokat Irai the Necromancer.md",
+            "file": "Players/Jeremy Varren - Ryder.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Undead",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mokat Irai the Necromancer.md",
+                "file": "Players/Jeremy Varren - Ryder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +87,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2cc1725eab57cb2",
+  "active": "61de022123dc5876",
   "lastOpenFiles": [
-    "Characters/Mokat Irai the Necromancer.md",
-    "Episodes/Episode 4 - The Resurrection.md",
     "Players/Patro - Alex.md",
     "Players/Jo Beidan - Diren.md",
+    "Characters/Mokat Irai the Necromancer.md",
+    "Episodes/Episode 4 - The Resurrection.md",
     "Players/Jeremy Varren - Ryder.md",
     "Players/Faye - Evelyn.md",
     "Characters/Death Herself.md",
